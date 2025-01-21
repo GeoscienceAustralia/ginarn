@@ -1,0 +1,6 @@
+<map id="pclkMapClk" name="pclkMapClk">
+<area shape="rect" id="Node000001" href="$ephPrecise_8cpp.html#aeafc4280f42e4ecc5c204970f33bd07b" title=" " alt="" coords="5,5,104,31"/>
+<area shape="rect" id="Node000002" href="$structGTime.html#a98fdbaaec5a132a7e694f28b4f1907cb" title=" " alt="" coords="152,5,283,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,24,138,24,138,30,104,29"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="104,7,138,6,138,12,104,12"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SppOptions" name="SppOptions">
+<area shape="rect" id="Node000001" href="$structSppOptions.html" title=" " alt="" coords="326,429,501,605"/>
+<area shape="rect" id="Node000002" href="$structFilterOptions.html" title=" " alt="" coords="323,224,503,380"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,394,416,429,411,429,411,394"/>
+<area shape="rect" id="Node000003" href="$structRtsOptions.html" title=" " alt="" coords="5,15,176,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,157,189,159,324,246,322,250,187,164,183,161"/>
+<area shape="rect" id="Node000005" href="$structPrefitOptions.html" title=" " alt="" coords="201,5,402,161"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="344,160,368,208,364,211,339,163"/>
+<area shape="rect" id="Node000006" href="$structPostfitOptions.html" title=" " alt="" coords="426,15,627,151"/>
+<area shape="poly" id="edge4_Node000002_Node000006" title=" " alt="" coords="494,153,464,210,459,208,489,151"/>
+<area shape="rect" id="Node000007" href="$structChiSquareOptions.html" title=" " alt="" coords="651,25,810,141"/>
+<area shape="poly" id="edge5_Node000002_Node000007" title=" " alt="" coords="667,144,642,164,519,243,516,239,638,159,664,139"/>
+</map>

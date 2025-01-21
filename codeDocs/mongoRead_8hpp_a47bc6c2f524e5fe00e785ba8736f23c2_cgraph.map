@@ -1,0 +1,5 @@
+<map id="mongoReadEphemeris" name="mongoReadEphemeris">
+<area shape="rect" id="Node000001" href="$mongoRead_8cpp.html#a47bc6c2f524e5fe00e785ba8736f23c2" title="Read GPS/GAL/BDS/QZS ephemeris from Mongo DB." alt="" coords="5,5,175,31"/>
+<area shape="rect" id="Node000002" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="223,5,309,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,15,209,15,209,21,175,21"/>
+</map>

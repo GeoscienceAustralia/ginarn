@@ -1,0 +1,10 @@
+<map id="RtcmTrace::traceSsrUra" name="RtcmTrace::traceSsrUra">
+<area shape="rect" id="Node000001" href="$structRtcmTrace.html#aa9417bd4a22314d42e8064f78f12d26d" title=" " alt="" coords="5,55,180,80"/>
+<area shape="rect" id="Node000002" href="$gTime_8cpp.html#abc73cf336f9fa1b3622c933d5925e073" title=" " alt="" coords="256,5,331,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,52,242,28,243,33,146,57"/>
+<area shape="rect" id="Node000003" href="$structGTime.html#a98fdbaaec5a132a7e694f28b4f1907cb" title=" " alt="" coords="228,55,359,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,74,214,73,214,79,180,79"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="180,56,214,56,214,61,180,61"/>
+<area shape="rect" id="Node000004" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="250,104,337,129"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="146,77,237,100,236,105,144,83"/>
+</map>

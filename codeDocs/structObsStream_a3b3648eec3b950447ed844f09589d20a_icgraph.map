@@ -1,0 +1,5 @@
+<map id="ObsStream::eatObs" name="ObsStream::eatObs">
+<area shape="rect" id="Node000001" href="$structObsStream.html#a3b3648eec3b950447ed844f09589d20a" title="Remove some observations from memory." alt="" coords="201,5,349,31"/>
+<area shape="rect" id="Node000002" href="$structObsStream.html#a6d0ad39e5f301fc9455cfe5d9d3c3f99" title="Return a list of observations from the stream, with a specified timestamp." alt="" coords="5,5,153,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,21,154,21,154,15,187,15"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="tideSolidPole" name="tideSolidPole">
+<area shape="rect" id="Node000001" href="$tides_8cpp.html#aeae22242d3396386a1b71e573226478d" title="Displacement by solid Earth pole tide See ref [1] 7.1.4." alt="" coords="5,129,112,155"/>
+<area shape="rect" id="Node000002" href="$structVectorPos.html#ae607eb1f43de3cf1aaa024c2fdabc514" title=" " alt="" coords="161,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,127,105,85,130,61,159,40,169,34,172,39,161,44,134,65,108,89,72,131"/>
+<area shape="rect" id="Node000003" href="$structVectorPos.html#aa693d5a52133cfb55040b768c6175bae" title=" " alt="" coords="160,55,300,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,127,159,89,175,82,177,87,161,94,84,132"/>
+<area shape="rect" id="Node000004" href="$tides_8cpp.html#a355b2b8163e37996af1622c2780315c8" title="IERS mean pole See ref [2.2] eq.21 Eugene: This function will be gone in the future as IERS2010::mean..." alt="" coords="175,104,285,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,131,161,124,162,129,113,137"/>
+<area shape="rect" id="Node000006" href="$structVectorPos.html#a63e862a389b3548bc5b4aedabd94540b" title=" " alt="" coords="175,153,285,179"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="113,147,162,154,161,159,112,152"/>
+<area shape="rect" id="Node000007" href="$structVectorPos.html#ab7ade23bd200ec4145eb389b58737dee" title=" " alt="" coords="173,203,287,228"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="72,153,111,176,161,200,161,200,159,205,159,204,109,181,70,157"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="109,152,161,176,205,194,203,199,159,180,107,157"/>
+</map>

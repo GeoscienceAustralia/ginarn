@@ -1,0 +1,18 @@
+<map id="removeBadAmbiguities" name="removeBadAmbiguities">
+<area shape="rect" id="Node000001" href="$ppp_8cpp.html#a075655f5235940732703f2e6ca41421a" title="Remove ambiguity states from filter when they deemed old or bad This effectively reinitialises them o..." alt="" coords="5,104,180,129"/>
+<area shape="rect" id="Node000002" href="$structKFState.html#ac161d9283e7fedbdf6236a2c8c0be180" title=" " alt="" coords="228,5,456,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,102,162,71,227,40,251,32,253,37,229,44,165,75,114,106"/>
+<area shape="rect" id="Node000003" href="$ppp_8cpp.html#add1aa65516313588ef8e125a7d748f51" title=" " alt="" coords="304,55,380,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,105,295,81,296,86,181,111"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="126,101,205,83,290,67,291,73,206,88,127,107"/>
+<area shape="rect" id="Node000004" href="$ppp_8cpp.html#a96cf81dda8cab8a4eff5984e5092ffd3" title=" " alt="" coords="275,104,409,129"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="180,123,261,122,261,128,180,128"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="180,105,261,106,261,111,180,111"/>
+<area shape="rect" id="Node000009" href="$structKFState.html#a043f0e3fd99610dfad8e650a1514c395" title="Remove a state from a kalman filter object." alt="" coords="260,153,424,179"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="127,127,247,153,245,158,126,132"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="181,123,296,147,295,152,180,128"/>
+<area shape="rect" id="Node000010" href="$algebra_8cpp.html#a4a6a1ebf759ddc5d9d6d1de14269c5af" title=" " alt="" coords="259,203,425,228"/>
+<area shape="poly" id="edge6_Node000001_Node000010" title=" " alt="" coords="115,127,165,157,229,188,258,197,256,202,227,192,163,162,112,132"/>
+<area shape="rect" id="Node000011" href="$structACSConfig.html#acbb130e061ba4b7bf620e4fb68e1b794" title="Set receiver options for a specific receiver using a hierarchy of sources." alt="" coords="256,252,428,277"/>
+<area shape="poly" id="edge7_Node000001_Node000011" title=" " alt="" coords="106,128,155,181,190,212,229,237,248,245,246,250,227,242,187,216,151,185,102,131"/>
+</map>

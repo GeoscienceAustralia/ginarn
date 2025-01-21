@@ -1,0 +1,30 @@
+<map id="satFreqs" name="satFreqs">
+<area shape="rect" id="Node000001" href="$acsQC_8cpp.html#abd57aff1d197b2747eab5e751cbb0b57" title=" " alt="" coords="427,205,504,231"/>
+<area shape="rect" id="Node000002" href="$acsQC_8cpp.html#a9a7675a515de2802ed917e9d32dd897d" title="Cycle slip detection for dual&#45;frequency." alt="" coords="140,5,227,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,193,427,130,405,96,377,68,341,47,301,34,262,25,227,22,227,16,263,20,303,28,343,42,380,64,409,93,432,127,459,191"/>
+<area shape="rect" id="Node000003" href="$acsQC_8cpp.html#a7b37fc255c80330a5497de5bee8f2dbb" title="Cycle slip detection and repair." alt="" coords="5,56,92,81"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="452,194,424,142,403,116,377,96,342,80,304,68,226,57,152,57,93,64,92,58,152,52,226,52,305,63,344,75,380,92,407,113,428,139,457,191"/>
+<area shape="rect" id="Node000011" href="$acsQC_8cpp.html#a5278f59e23c92b2a1912d5dde5e2f809" title="Cycle slip detection and repair for triple&#45;frequency." alt="" coords="140,403,227,428"/>
+<area shape="poly" id="edge3_Node000001_Node000011" title=" " alt="" coords="453,194,425,141,404,116,377,96,349,83,324,77,301,81,276,96,249,128,237,162,237,196,243,233,251,270,254,309,249,350,229,392,216,404,212,401,225,388,243,348,249,309,245,271,238,233,232,197,232,161,244,126,273,92,299,76,325,72,351,78,380,92,407,112,429,138,457,191"/>
+<area shape="rect" id="Node000012" href="$acsQC_8cpp.html#a0d2d4fd45a0cdf961784d89cc132442e" title="Detect cycle slip by geometry free phase jump." alt="" coords="285,107,368,132"/>
+<area shape="poly" id="edge6_Node000001_Node000012" title=" " alt="" coords="440,198,411,171,377,146,357,135,360,130,380,141,415,167,444,194"/>
+<area shape="rect" id="Node000013" href="$acsQC_8cpp.html#a36663ab87649ee3624e072af7fec6409" title="Detect slip by Melbourne&#45;Wubbena linear combination jump." alt="" coords="280,156,373,181"/>
+<area shape="poly" id="edge7_Node000001_Node000013" title=" " alt="" coords="415,203,362,184,364,179,417,198"/>
+<area shape="rect" id="Node000014" href="$linearCombo_8cpp.html#a0c10f0392343a1e3d46c30eea8db481f" title="Function to prepare some predefined linear combinations from an observation." alt="" coords="295,205,359,231"/>
+<area shape="poly" id="edge8_Node000001_Node000014" title=" " alt="" coords="413,221,359,221,359,215,413,215"/>
+<area shape="rect" id="Node000016" href="$ionoMeas_8cpp.html#ab3f111d5e6d66de4751fbce467a29372" title=" " alt="" coords="275,255,379,280"/>
+<area shape="poly" id="edge9_Node000001_Node000016" title=" " alt="" coords="417,238,364,257,362,252,415,233"/>
+<area shape="rect" id="Node000017" href="$spp_8cpp.html#a6cad7816e79572f2df36565492643a21" title="Calculate pseudorange with code bias correction." alt="" coords="293,304,360,329"/>
+<area shape="poly" id="edge10_Node000001_Node000017" title=" " alt="" coords="443,242,380,294,358,306,355,302,377,289,439,238"/>
+<area shape="rect" id="Node000021" href="$ephPrecise_8cpp.html#ac24a7ecc232807f046a15e914b5df57f" title="satellite antenna phase center offset in ecef" alt="" coords="285,353,368,379"/>
+<area shape="poly" id="edge11_Node000001_Node000021" title=" " alt="" coords="454,244,424,293,404,319,380,343,361,356,358,351,377,339,400,316,420,290,449,241"/>
+<area shape="rect" id="Node000022" href="$ephemeris_8cpp.html#a346b6446fcd54ef489b40cf028168b5c" title="compute satellite position and clock satellite clock does not include code bias correction (tgd or bg..." alt="" coords="151,353,216,379"/>
+<area shape="poly" id="edge13_Node000001_Node000022" title=" " alt="" coords="462,245,454,280,438,321,414,361,398,378,380,392,359,402,336,407,289,406,245,395,209,381,211,376,246,390,290,401,335,402,357,397,377,388,395,374,410,358,433,319,448,279,457,244"/>
+<area shape="rect" id="Node000044" href="$acsQC_8cpp.html#a501b956d22444b573a8867d87ad590d5" title="Single channel detection–identification–adaptation (DIA) for integer cycle slips." alt="" coords="299,455,355,480"/>
+<area shape="poly" id="edge14_Node000001_Node000044" title=" " alt="" coords="462,245,452,285,436,335,413,388,381,437,357,457,353,452,377,434,408,386,431,333,447,284,457,244"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,38,84,58,82,53,135,33"/>
+<area shape="poly" id="edge4_Node000011_Node000003" title=" " alt="" coords="141,396,138,392,112,351,92,307,76,262,65,216,52,136,48,82,53,82,57,135,70,215,81,260,97,305,117,349,142,388,145,392"/>
+<area shape="poly" id="edge12_Node000021_Node000022" title=" " alt="" coords="271,369,216,369,216,363,271,363"/>
+<area shape="poly" id="edge15_Node000044_Node000002" title=" " alt="" coords="304,445,287,420,272,391,235,285,208,179,192,89,183,31,189,30,197,88,214,178,240,284,277,389,292,417,309,442"/>
+<area shape="poly" id="edge16_Node000044_Node000011" title=" " alt="" coords="284,455,218,431,220,426,286,450"/>
+</map>

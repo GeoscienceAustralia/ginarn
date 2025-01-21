@@ -1,0 +1,10 @@
+<map id="NetworkStatistics" name="NetworkStatistics">
+<area shape="rect" id="Node000001" href="$structNetworkStatistics.html" title=" " alt="" coords="246,1117,484,1353"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,138,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,82,74,149,52,242,30,357,14,486,8,625,10,696,17,768,28,838,44,907,67,975,96,1039,122,1079,156,1115,194,1146,234,1172,231,1176,191,1150,152,1119,118,1083,91,1041,62,976,39,909,23,839,11,768,5,697,3,625,9,486,25,356,47,241,69,147,88,81"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="268,144,462,1040"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="140,58,198,91,227,115,251,142,262,158,257,161,247,146,223,118,195,95,138,62"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,1040,368,1101,362,1101,362,1040"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="487,554,614,630"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="551,630,544,707,531,810,509,926,477,1041,464,1069,447,1095,442,1104,438,1102,443,1092,459,1066,472,1039,504,925,526,809,539,706,546,630"/>
+</map>

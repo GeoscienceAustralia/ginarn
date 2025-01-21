@@ -1,0 +1,17 @@
+<map id="FilterOptions" name="FilterOptions">
+<area shape="rect" id="Node000001" href="$structFilterOptions.html" title=" " alt="" coords="473,249,653,465"/>
+<area shape="rect" id="Node000003" href="$structIonModelOptions.html" title=" " alt="" coords="5,723,173,959"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="460,378,391,397,318,424,248,463,216,488,187,515,154,562,129,615,112,670,101,724,96,723,107,669,124,613,149,559,183,512,212,484,245,459,316,420,390,392,458,373"/>
+<area shape="rect" id="Node000004" href="$structKFState__.html" title="Kalman filter object." alt="" coords="198,513,431,1169"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="468,478,445,515,434,535,429,533,440,512,464,475"/>
+<area shape="rect" id="Node000006" href="$structMinimumConstraintOptions.html" title="Options associated with the minimum constraints mode of operation." alt="" coords="455,723,670,959"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="565,479,565,723,560,723,560,479"/>
+<area shape="rect" id="Node000007" href="$structPppOptions.html" title="Options associated with the ppp processing mode of operation." alt="" coords="694,663,906,1019"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="661,475,684,512,719,586,749,662,744,664,715,588,679,515,657,478"/>
+<area shape="rect" id="Node000008" href="$structSppOptions.html" title=" " alt="" coords="930,753,1105,929"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="667,376,730,396,798,424,863,462,893,485,919,512,940,538,958,568,985,630,1003,694,1013,753,1008,754,998,695,980,632,953,570,936,541,915,515,889,489,860,466,795,429,728,401,665,382"/>
+<area shape="rect" id="Node000002" href="$structRtsOptions.html" title=" " alt="" coords="471,5,654,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,215,565,249,560,249,560,215"/>
+<area shape="rect" id="Node000005" href="$structKFState.html" title="Wrapper to simplify copying with default copy but overriding slightly." alt="" coords="207,1217,423,2053"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,1183,317,1217,312,1217,312,1183"/>
+</map>

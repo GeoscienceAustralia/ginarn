@@ -1,0 +1,10 @@
+<map id="SSREph" name="SSREph">
+<area shape="rect" id="Node000001" href="$structSSREph.html" title=" " alt="" coords="171,1237,261,1373"/>
+<area shape="rect" id="Node000002" href="$structSSRMeta.html" title=" " alt="" coords="5,964,168,1160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,1159,132,1212,162,1252,158,1255,127,1215,104,1161"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="55,5,249,901"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="198,902,200,925,216,1221,210,1221,195,926,193,902"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,902,95,926,93,948,88,947,89,925,91,902"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="270,1024,362,1100"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="303,1101,252,1223,247,1221,298,1099"/>
+</map>

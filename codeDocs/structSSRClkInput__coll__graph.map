@@ -1,0 +1,7 @@
+<map id="SSRClkInput" name="SSRClkInput">
+<area shape="rect" id="Node000001" href="$structSSRClkInput.html" title=" " alt="" coords="45,1143,160,1219"/>
+<area shape="rect" id="Node000002" href="$structClkValues.html" title=" " alt="" coords="53,964,153,1080"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,1080,105,1126,100,1126,100,1080"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,5,200,901"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,902,105,948,100,948,100,902"/>
+</map>

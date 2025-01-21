@@ -1,0 +1,14 @@
+<map id="writeBSINEXHeader" name="writeBSINEXHeader">
+<area shape="rect" id="Node000001" href="$biasSINEXwrite_8cpp.html#ab94f8678684d9733ffbe150e860a564a" title="Write bias SINEX head for the first time." alt="" coords="5,80,156,105"/>
+<area shape="rect" id="Node000002" href="$gTime_8cpp.html#a37bc65d232e726cdbc51122a8a8ec00e" title=" " alt="" coords="424,30,507,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,77,141,44,171,28,203,15,251,5,289,3,376,15,416,24,415,29,376,20,289,9,252,10,205,20,173,32,144,49,98,82"/>
+<area shape="rect" id="Node000006" href="$biasSINEXwrite_8cpp.html#a986e047c2dd383adf5526d99e5c418c4" title="Update bias SINEX first line." alt="" coords="229,30,351,56"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="135,77,222,56,223,62,136,82"/>
+<area shape="rect" id="Node000008" href="$structACSConfig.html#acbb130e061ba4b7bf620e4fb68e1b794" title="Set receiver options for a specific receiver using a hierarchy of sources." alt="" coords="204,80,376,105"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="156,90,190,90,190,95,156,95"/>
+<area shape="rect" id="Node000025" href="$algebra__old_8cpp.html#a54fd9b64416949c38e879ac889964d2a" title=" " alt="" coords="261,129,319,154"/>
+<area shape="poly" id="edge6_Node000001_Node000025" title=" " alt="" coords="110,103,177,121,248,137,247,142,175,126,108,108"/>
+<area shape="poly" id="edge7_Node000001_Node000025" title=" " alt="" coords="157,99,250,122,248,128,155,104"/>
+<area shape="poly" id="edge3_Node000006_Node000002" title=" " alt="" coords="352,49,410,49,410,54,352,54"/>
+<area shape="poly" id="edge4_Node000006_Node000002" title=" " alt="" coords="352,32,410,32,410,37,352,37"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Pseudo" name="Pseudo">
+<area shape="rect" id="Node000001" href="$structPseudo.html" title=" " alt="" coords="45,1425,136,1521"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,188,200,1084"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,1085,94,1409,89,1409,94,1085"/>
+<area shape="rect" id="Node000004" href="$structKFKey.html" title="Keys used to interface with Kalman filter objects." alt="" coords="170,1147,326,1363"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="103,1084,117,1122,136,1154,160,1183,156,1186,131,1157,112,1124,98,1086"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="212,5,284,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,57,173,76,154,89,140,107,121,139,106,174,102,172,117,137,135,104,151,86,170,71,211,52"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="251,81,251,1130,245,1130,245,81"/>
+<area shape="rect" id="Node000008" href="$structReceiver.html" title="Object to maintain receiver station data." alt="" coords="349,488,517,784"/>
+<area shape="poly" id="edge7_Node000008_Node000003" title=" " alt="" coords="276,80,306,130,333,187,358,258,379,331,411,471,405,472,374,332,353,259,328,189,301,132,271,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,1364,137,1414,132,1410,168,1361"/>
+<area shape="rect" id="Node000005" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="542,438,698,834"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="617,835,607,899,590,964,565,1027,531,1086,491,1131,443,1169,392,1199,342,1223,340,1218,389,1194,440,1164,488,1127,527,1082,560,1025,585,962,601,898,612,834"/>
+<area shape="poly" id="edge6_Node000004_Node000008" title=" " alt="" coords="411,785,379,931,358,1009,333,1085,314,1133,309,1131,328,1083,352,1008,373,930,406,783"/>
+</map>

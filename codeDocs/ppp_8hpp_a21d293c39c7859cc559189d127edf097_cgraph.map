@@ -1,0 +1,22 @@
+<map id="selectAprioriSource" name="selectAprioriSource">
+<area shape="rect" id="Node000001" href="$ppp_8cpp.html#addf444b8f568363246958de68c55772d" title="Compare estimated station position with benchmark in SINEX file." alt="" coords="5,156,153,181"/>
+<area shape="rect" id="Node000002" href="$structACSConfig.html#a20ca3689eafecfa2b7e656c28e340256" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="364,56,533,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,154,99,124,124,85,158,46,178,30,200,16,228,7,257,3,287,4,316,9,371,26,415,46,413,51,369,31,315,14,286,9,258,8,229,12,202,21,181,34,161,50,128,88,104,127,89,157"/>
+<area shape="rect" id="Node000025" href="$trace_8hpp.html#af5320371d0f15d74154b2b32d315684d" title=" " alt="" coords="209,32,309,57"/>
+<area shape="poly" id="edge2_Node000001_Node000025" title=" " alt="" coords="92,153,138,112,200,66,210,60,212,65,203,70,141,116,96,157"/>
+<area shape="rect" id="Node000026" href="$ephemeris_8cpp.html#a346b6446fcd54ef489b40cf028168b5c" title="compute satellite position and clock satellite clock does not include code bias correction (tgd or bg..." alt="" coords="226,81,291,106"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="110,153,214,109,216,114,112,158"/>
+<area shape="rect" id="Node000027" href="$structGTime.html#a98fdbaaec5a132a7e694f28b4f1907cb" title=" " alt="" coords="383,180,514,205"/>
+<area shape="poly" id="edge9_Node000001_Node000027" title=" " alt="" coords="93,179,139,206,170,218,202,227,260,232,318,229,371,219,413,207,415,212,372,225,318,234,260,238,201,232,168,223,137,211,90,184"/>
+<area shape="poly" id="edge10_Node000001_Node000027" title=" " alt="" coords="127,178,163,192,202,203,245,208,288,208,370,199,370,204,288,213,244,213,201,208,162,197,125,183"/>
+<area shape="rect" id="Node000065" href="$ephemeris_8cpp.html#a7696664ba7fdd776d9ba929b11325e05" title=" " alt="" coords="228,130,289,156"/>
+<area shape="poly" id="edge5_Node000001_Node000065" title=" " alt="" coords="153,155,214,146,215,152,154,160"/>
+<area shape="rect" id="Node000047" href="$erp_8cpp.html#afe3874cc58d609f4ccc2b03a5ef632b8" title="Get earth rotation parameter values." alt="" coords="227,180,291,205"/>
+<area shape="poly" id="edge7_Node000001_Node000047" title=" " alt="" coords="154,175,213,184,212,189,153,181"/>
+<area shape="rect" id="Node000071" href="$attitude_8cpp.html#a0584e56d2ad0d93d89079e841a6dba28" title="Update sat nominal/model yaws." alt="" coords="201,305,316,330"/>
+<area shape="poly" id="edge11_Node000001_Node000071" title=" " alt="" coords="94,179,139,227,203,283,221,296,218,300,200,288,136,231,90,183"/>
+<area shape="poly" id="edge4_Node000026_Node000027" title=" " alt="" coords="293,104,317,115,416,170,414,175,315,120,291,109"/>
+<area shape="poly" id="edge6_Node000065_Node000027" title=" " alt="" coords="290,148,387,174,386,179,289,153"/>
+<area shape="poly" id="edge8_Node000047_Node000027" title=" " alt="" coords="291,190,370,190,370,195,291,195"/>
+<area shape="poly" id="edge12_Node000071_Node000002" title=" " alt="" coords="266,303,362,167,424,90,429,94,366,170,271,306"/>
+</map>

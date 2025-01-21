@@ -1,0 +1,7 @@
+<map id="deweightMeas" name="deweightMeas">
+<area shape="rect" id="Node000001" href="$ppp__callbacks_8cpp.html#ace5050e41423910c1fae826aa052887d" title="Deweight worst measurement." alt="" coords="164,31,281,56"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="33,5,88,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,35,88,25,89,20,151,29"/>
+<area shape="rect" id="Node000003" href="$walkthrough_8cpp.html#af3e41749378ce9de79e7bdb41df88419" title="Ginan kalman filter basics The basic structure for kalman filtering in ginan is the KFState struct,..." alt="" coords="5,55,116,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,57,117,62,116,57,150,51"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,65,168,120"/>
+<area shape="rect" id="Node000001" href="$structConsoleLog.html" title=" " alt="" coords="253,5,351,31"/>
+<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="166,58,215,39,252,28,254,33,217,45,168,63"/>
+<area shape="rect" id="Node000002" href="$structErrorExit.html" title=" " alt="" coords="263,55,341,80"/>
+<area shape="poly" id="edge11_Node000000_Node000002" title=" " alt="" coords="181,79,262,69,263,75,182,84"/>
+<area shape="rect" id="Node000003" href="$structFileLog.html" title=" " alt="" coords="268,104,336,129"/>
+<area shape="poly" id="edge12_Node000000_Node000003" title=" " alt="" coords="182,101,268,110,268,116,182,106"/>
+<area shape="rect" id="Node000004" href="$structMongoLogSinkBackend.html" title=" " alt="" coords="216,153,388,179"/>
+<area shape="poly" id="edge13_Node000000_Node000004" title=" " alt="" coords="172,122,217,138,257,151,255,156,215,143,170,127"/>
+</map>

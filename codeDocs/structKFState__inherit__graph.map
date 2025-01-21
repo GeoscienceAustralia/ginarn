@@ -1,0 +1,7 @@
+<map id="KFState" name="KFState">
+<area shape="rect" id="Node000001" href="$structKFState.html" title="Wrapper to simplify copying with default copy but overriding slightly." alt="" coords="14,973,230,1809"/>
+<area shape="rect" id="Node000002" href="$structKFState__.html" title="Kalman filter object." alt="" coords="5,269,239,925"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,939,125,973,119,973,119,939"/>
+<area shape="rect" id="Node000003" href="$structFilterOptions.html" title=" " alt="" coords="32,5,212,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,235,125,269,119,269,119,235"/>
+</map>

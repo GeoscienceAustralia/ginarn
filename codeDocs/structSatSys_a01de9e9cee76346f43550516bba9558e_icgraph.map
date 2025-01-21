@@ -1,0 +1,11 @@
+<map id="SatSys::blockType" name="SatSys::blockType">
+<area shape="rect" id="Node000001" href="$structSatSys.html#a01de9e9cee76346f43550516bba9558e" title=" " alt="" coords="493,56,632,81"/>
+<area shape="rect" id="Node000002" href="$structACSConfig.html#a20ca3689eafecfa2b7e656c28e340256" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="276,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,55,411,33,413,28,498,50"/>
+<area shape="rect" id="Node000018" href="$main_8cpp.html#a79eb17a8eaafbf1dde7569cb7eae3b7e" title=" " alt="" coords="5,56,228,81"/>
+<area shape="poly" id="edge3_Node000001_Node000018" title=" " alt="" coords="479,71,228,71,228,66,479,66"/>
+<area shape="rect" id="Node000061" href="$structSatSys.html#aa2f7732319c19c6aa872606483a9c471" title=" " alt="" coords="281,107,441,132"/>
+<area shape="poly" id="edge4_Node000001_Node000061" title=" " alt="" coords="498,87,413,109,411,104,497,82"/>
+<area shape="poly" id="edge2_Node000002_Node000018" title=" " alt="" coords="286,36,179,59,178,53,285,31"/>
+<area shape="poly" id="edge5_Node000061_Node000018" title=" " alt="" coords="285,106,178,84,179,79,286,101"/>
+</map>

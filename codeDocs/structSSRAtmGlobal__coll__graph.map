@@ -1,0 +1,11 @@
+<map id="SSRAtmGlobal" name="SSRAtmGlobal">
+<area shape="rect" id="Node000001" href="$structSSRAtmGlobal.html" title=" " alt="" coords="145,1103,287,1219"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,144,200,1040"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,1040,204,1086,199,1087,190,1041"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="67,5,139,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,81,105,128,100,128,100,81"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="225,554,437,630"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,631,307,825,284,952,253,1079,251,1088,245,1086,248,1078,279,951,302,824,325,630"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="299,5,363,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,95,333,554,328,554,328,95"/>
+</map>

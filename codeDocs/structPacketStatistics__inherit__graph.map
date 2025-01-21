@@ -1,0 +1,11 @@
+<map id="PacketStatistics" name="PacketStatistics">
+<area shape="rect" id="Node000001" href="$structPacketStatistics.html" title=" " alt="" coords="179,5,373,301"/>
+<area shape="rect" id="Node000002" href="$structCustomParser.html" title=" " alt="" coords="5,569,136,665"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,307,152,350,128,408,109,467,83,570,78,569,104,466,123,406,147,348,170,304"/>
+<area shape="rect" id="Node000003" href="$structRtcmDecoder.html" title=" " alt="" coords="161,349,391,885"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,315,279,349,273,349,273,315"/>
+<area shape="rect" id="Node000005" href="$structUbxParser.html" title=" " alt="" coords="416,569,547,665"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="383,303,406,348,430,406,449,466,475,569,470,570,444,467,425,408,402,350,378,305"/>
+<area shape="rect" id="Node000004" href="$structRtcmParser.html" title=" " alt="" coords="208,933,344,1069"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,899,279,933,273,933,273,899"/>
+</map>

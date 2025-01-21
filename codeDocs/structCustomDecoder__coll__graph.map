@@ -1,0 +1,19 @@
+<map id="CustomDecoder" name="CustomDecoder">
+<area shape="rect" id="Node000001" href="$structCustomDecoder.html" title=" " alt="" coords="403,1147,581,1363"/>
+<area shape="rect" id="Node000002" href="$structObsLister.html" title=" " alt="" coords="24,583,120,659"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,673,62,756,65,859,73,914,86,968,107,1020,134,1068,160,1100,191,1128,225,1152,261,1174,335,1207,403,1230,401,1235,333,1212,258,1178,222,1157,188,1132,157,1103,130,1071,102,1022,81,970,68,915,60,859,56,755,62,673"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,139,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,82,75,567,69,567,69,82"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="144,569,360,674"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="260,674,272,762,295,876,330,1001,354,1063,381,1121,396,1146,391,1148,376,1124,349,1065,325,1003,290,877,267,763,254,674"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="340,5,404,81"/>
+<area shape="poly" id="edge4_Node000005_Node000006" title=" " alt="" coords="329,65,303,83,282,107,255,165,238,228,227,292,224,356,225,418,229,475,243,568,238,569,224,476,219,418,218,356,222,291,232,226,250,163,278,104,299,79,326,61"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="384,569,600,674"/>
+<area shape="poly" id="edge6_Node000007_Node000006" title=" " alt="" coords="416,75,438,104,464,165,482,229,494,294,501,359,505,477,500,569,495,568,500,477,496,359,489,295,477,230,458,167,434,107,412,78"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="495,674,495,1130,489,1130,489,674"/>
+<area shape="rect" id="Node000008" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="624,173,819,1069"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="640,1071,616,1124,594,1159,589,1156,611,1121,636,1068"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="773,5,845,81"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="840,80,851,105,853,127,851,149,852,223,858,292,876,416,920,631,931,732,931,784,925,836,913,890,895,947,868,1007,833,1071,811,1101,786,1128,726,1172,661,1206,598,1230,596,1225,659,1201,723,1168,782,1124,807,1097,828,1068,863,1005,890,945,908,889,920,835,925,783,926,733,915,632,871,417,852,292,847,223,845,149,847,127,845,106,835,83"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="775,80,758,106,740,158,735,156,754,104,771,77"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SSRHeader" name="SSRHeader">
+<area shape="rect" id="Node000001" href="$structSSRHeader.html" title=" " alt="" coords="29,1361,177,1557"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,144,200,1040"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,1040,96,1299,98,1345,93,1345,91,1299,88,1040"/>
+<area shape="rect" id="Node000004" href="$structSSRMeta.html" title=" " alt="" coords="151,1103,313,1299"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="201,1040,211,1086,205,1087,195,1041"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="67,5,139,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,81,105,128,100,128,100,81"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,1300,161,1348,157,1345,181,1298"/>
+</map>

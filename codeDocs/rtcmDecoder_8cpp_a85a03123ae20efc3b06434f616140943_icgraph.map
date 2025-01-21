@@ -1,0 +1,27 @@
+<map id="getbitu" name="getbitu">
+<area shape="rect" id="Node000001" href="$rtcmDecoder_8cpp.html#a85a03123ae20efc3b06434f616140943" title="extract unsigned bits from byte data" alt="" coords="605,185,673,210"/>
+<area shape="rect" id="Node000002" href="$structRtcmDecoder.html#a34dfe8bbed06d1cabb0fed2899584dfd" title=" " alt="" coords="193,86,359,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="632,172,624,137,610,96,588,57,573,40,556,27,522,12,485,8,448,13,411,24,343,57,295,88,292,84,341,52,409,19,447,8,485,3,523,7,559,22,577,37,592,54,615,94,629,135,637,171"/>
+<area shape="rect" id="Node000003" href="$structRtcmParser.html#a6138840942a03f0a06ecb288ab412716" title=" " alt="" coords="5,192,145,217"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="632,224,606,277,585,304,559,324,527,338,493,347,459,352,425,352,355,343,288,323,225,296,170,268,93,220,96,215,173,263,227,292,290,318,356,337,425,347,459,347,492,342,525,333,556,319,581,300,602,274,627,222"/>
+<area shape="rect" id="Node000004" href="$prototypeCmpSSRDecode_8cpp.html#a64568502e5d54f952257863f6a753f7d" title=" " alt="" coords="407,37,557,62"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="625,174,598,124,579,98,556,76,536,65,539,60,559,72,583,94,603,121,630,171"/>
+<area shape="rect" id="Node000005" href="$prototypeIgsSSRDecode_8cpp.html#a877c5fcee94f02d79c72ae82b423a701" title=" " alt="" coords="425,86,539,112"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="616,176,589,150,556,125,532,114,534,109,559,121,592,146,620,173"/>
+<area shape="rect" id="Node000006" href="$rtcmDecoder_8cpp.html#a48a309e0f4832dd7f5025c0717c5c645" title="extract sign&#45;magnitude bits applied in GLO nav messages from byte data" alt="" coords="448,136,516,161"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="591,186,515,161,517,156,593,181"/>
+<area shape="rect" id="Node000010" href="$rtcmDecoder_8cpp.html#a2b4fecad74db6a33e3e755d5c55245ad" title="extract signed bits from byte data" alt="" coords="449,185,515,210"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="592,200,516,200,516,195,592,195"/>
+<area shape="rect" id="Node000037" href="$rtcmDecoder_8cpp.html#ad48f005e9a609843e1616f9267a27d29" title="extract unsigned bits from RTCM messages" alt="" coords="448,234,516,260"/>
+<area shape="poly" id="edge10_Node000001_Node000037" title=" " alt="" coords="593,215,517,239,515,234,591,210"/>
+<area shape="rect" id="Node000038" href="$rtcmDecoder_8cpp.html#aaa6463f592ed6478626814466d3d02a5" title="increasingly extract unsigned bits from byte data" alt="" coords="439,284,525,309"/>
+<area shape="poly" id="edge11_Node000001_Node000038" title=" " alt="" coords="620,223,592,250,559,275,526,289,524,284,556,270,589,246,616,219"/>
+<area shape="rect" id="Node000023" href="$prototypeCmpSSRDecode_8cpp.html#a8167de7b2614ee14859e06539ffa465c" title=" " alt="" coords="407,385,557,410"/>
+<area shape="poly" id="edge15_Node000001_Node000023" title=" " alt="" coords="634,225,609,294,587,333,559,368,528,387,525,383,556,364,583,330,604,292,629,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,121,102,194,99,189,237,116"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="416,68,331,89,329,84,415,63"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="419,70,408,76,394,88,385,100,376,113,360,125,307,152,250,172,146,197,145,192,249,167,305,147,357,121,372,109,381,97,390,84,405,72,416,65"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="411,102,359,102,359,96,411,96"/>
+<area shape="poly" id="edge12_Node000038_Node000002" title=" " alt="" coords="424,285,405,275,361,235,325,189,298,146,281,113,286,111,303,143,330,186,365,231,408,270,427,280"/>
+<area shape="poly" id="edge13_Node000038_Node000003" title=" " alt="" coords="425,286,132,220,133,215,426,281"/>
+</map>

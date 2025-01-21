@@ -1,0 +1,10 @@
+<map id="decomposeBGDBias" name="decomposeBGDBias">
+<area shape="rect" id="Node000001" href="$biases_8cpp.html#a063ba8fe35a80404ea27345b60592828" title="Convert GAL BGDs into OSBs &amp; DSB." alt="" coords="5,80,160,105"/>
+<area shape="rect" id="Node000002" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="228,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,77,207,40,223,33,225,38,209,44,116,82"/>
+<area shape="rect" id="Node000004" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="208,55,335,80"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="160,80,194,75,195,80,161,85"/>
+<area shape="rect" id="Node000005" href="$biases_8cpp.html#ad7402956db3836fc8dbe7b8b51d04c69" title="Push forward and reverse bias entry into biasMaps." alt="" coords="214,104,329,129"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="124,103,201,114,200,119,124,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,91,217,99,216,104,160,96"/>
+</map>

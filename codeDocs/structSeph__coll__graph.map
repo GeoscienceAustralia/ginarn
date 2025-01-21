@@ -1,0 +1,17 @@
+<map id="Seph" name="Seph">
+<area shape="rect" id="Node000001" href="$structSeph.html" title="SBAS ephemeris." alt="" coords="257,1147,335,1343"/>
+<area shape="rect" id="Node000002" href="$structBrdcEph.html" title=" " alt="" coords="5,569,93,645"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,659,46,738,52,839,59,894,71,949,86,1003,108,1053,139,1104,179,1148,221,1186,258,1215,255,1219,217,1190,175,1152,135,1107,103,1056,81,1004,65,950,54,895,47,840,41,738,43,658"/>
+<area shape="rect" id="Node000003" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="118,409,274,805"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,804,281,1130,276,1131,224,805"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,5,284,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,96,199,392,193,392,193,96"/>
+<area shape="rect" id="Node000006" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="299,159,493,1055"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="334,1055,323,1123,321,1131,316,1130,317,1122,329,1054"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="360,13,432,89"/>
+<area shape="poly" id="edge5_Node000006_Node000007" title=" " alt="" coords="399,89,399,142,393,142,393,89"/>
+<area shape="rect" id="Node000008" href="$structVectorEcef.html" title=" " alt="" coords="518,519,647,695"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="587,695,582,775,570,868,546,965,529,1012,508,1056,474,1104,434,1147,391,1184,351,1213,348,1208,388,1179,430,1143,470,1101,503,1053,524,1009,541,963,565,867,577,775,581,695"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="537,13,629,89"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="585,102,585,518,580,518,580,102"/>
+</map>

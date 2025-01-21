@@ -1,0 +1,19 @@
+<map id="Parser" name="Parser">
+<area shape="rect" id="Node000001" href="$structParser.html" title=" " alt="" coords="589,5,720,121"/>
+<area shape="rect" id="Node000002" href="$structCustomParser.html" title=" " alt="" coords="5,239,136,335"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="576,76,466,91,341,112,227,139,182,155,150,172,117,203,93,240,89,238,113,200,146,167,180,150,226,134,340,107,465,86,575,71"/>
+<area shape="rect" id="Node000003" href="$structDS2DCParser.html" title=" " alt="" coords="160,239,291,335"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="576,75,513,86,442,105,370,133,304,171,272,204,249,241,244,238,268,200,301,167,368,128,440,100,512,81,575,70"/>
+<area shape="rect" id="Node000004" href="$structRinexParser.html" title=" " alt="" coords="315,179,458,395"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="578,102,524,133,472,171,460,183,456,180,469,167,521,128,576,97"/>
+<area shape="rect" id="Node000005" href="$structRtcmParser.html" title=" " alt="" coords="483,219,619,355"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="625,135,585,220,580,218,620,133"/>
+<area shape="rect" id="Node000006" href="$structSinexParser.html" title=" " alt="" coords="643,169,875,405"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="690,133,706,168,701,170,685,135"/>
+<area shape="rect" id="Node000007" href="$structSlrParser.html" title="Interface for slr streams." alt="" coords="899,229,1029,345"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="734,85,812,118,852,141,888,167,915,196,937,227,933,230,911,199,885,171,849,145,810,123,732,90"/>
+<area shape="rect" id="Node000008" href="$structSp3Parser.html" title=" " alt="" coords="1054,219,1186,355"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="734,67,804,77,885,96,967,125,1006,144,1043,167,1068,190,1089,218,1084,221,1064,194,1040,171,1004,149,965,130,883,101,803,83,733,73"/>
+<area shape="rect" id="Node000009" href="$structUbxParser.html" title=" " alt="" coords="1211,239,1341,335"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="734,70,852,84,988,105,1114,132,1164,149,1200,167,1218,182,1234,200,1258,237,1254,240,1230,203,1215,186,1197,172,1162,154,1112,138,987,110,851,89,733,75"/>
+</map>

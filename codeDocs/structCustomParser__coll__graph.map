@@ -1,0 +1,20 @@
+<map id="CustomParser" name="CustomParser">
+<area shape="rect" id="Node000001" href="$structCustomParser.html" title=" " alt="" coords="408,1463,539,1559"/>
+<area shape="rect" id="Node000002" href="$structParser.html" title=" " alt="" coords="229,1207,360,1323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,1335,349,1374,374,1412,419,1461,415,1464,370,1415,344,1377,323,1337"/>
+<area shape="rect" id="Node000003" href="$structCustomDecoder.html" title=" " alt="" coords="384,1157,563,1373"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="476,1387,476,1462,471,1462,471,1387"/>
+<area shape="rect" id="Node000004" href="$structObsLister.html" title=" " alt="" coords="5,554,101,630"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="47,644,38,729,37,779,40,833,48,888,62,942,84,993,115,1038,144,1064,174,1078,204,1083,235,1084,268,1083,302,1086,337,1095,374,1115,395,1134,415,1156,411,1159,392,1138,370,1120,335,1100,301,1091,268,1089,235,1089,204,1089,172,1083,141,1069,111,1042,80,995,57,944,43,889,35,834,32,780,33,728,41,644"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="125,539,341,645"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="243,644,258,732,282,845,317,970,362,1092,392,1142,387,1145,358,1094,312,972,277,846,253,733,238,645"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="365,539,581,645"/>
+<area shape="poly" id="edge5_Node000003_Node000009" title=" " alt="" coords="476,645,476,1141,471,1141,471,645"/>
+<area shape="rect" id="Node000010" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="605,144,800,1040"/>
+<area shape="poly" id="edge6_Node000003_Node000010" title=" " alt="" coords="620,1041,597,1095,588,1108,577,1119,557,1145,553,1142,573,1116,583,1104,592,1092,615,1039"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="747,5,819,81"/>
+<area shape="poly" id="edge8_Node000003_Node000011" title=" " alt="" coords="819,80,832,105,832,120,834,194,840,263,860,388,908,606,920,708,920,759,914,811,901,865,881,921,852,980,814,1042,787,1069,758,1081,725,1087,686,1096,654,1102,628,1103,604,1106,576,1120,545,1147,542,1143,573,1115,602,1101,627,1098,653,1097,685,1091,724,1082,757,1076,784,1065,810,1038,848,977,876,919,896,864,908,810,914,759,915,708,903,607,855,389,834,263,828,194,827,120,827,106,815,83"/>
+<area shape="poly" id="edge7_Node000010_Node000011" title=" " alt="" coords="752,83,740,106,732,129,727,127,735,104,748,80"/>
+<area shape="rect" id="Node000012" href="$structPacketStatistics.html" title=" " alt="" coords="587,1117,781,1413"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="580,1412,577,1415,528,1464,524,1461,573,1412,576,1408"/>
+</map>

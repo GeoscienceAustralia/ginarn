@@ -1,0 +1,8 @@
+<map id="UbxDecoder::decodeRAWX" name="UbxDecoder::decodeRAWX">
+<area shape="rect" id="Node000001" href="$structUbxDecoder.html#a3702427c895daa3f024fb18b638b2f67" title=" " alt="" coords="5,5,201,31"/>
+<area shape="rect" id="Node000002" href="$gTime_8cpp.html#a6ab7d9a372acf84508cf00f0befd6095" title=" " alt="" coords="249,5,337,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,235,24,235,29,202,30"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="202,6,235,7,235,12,202,12"/>
+<area shape="rect" id="Node000003" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="250,55,337,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,28,237,50,236,55,152,33"/>
+</map>

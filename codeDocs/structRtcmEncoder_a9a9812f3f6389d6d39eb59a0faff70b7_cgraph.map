@@ -1,0 +1,19 @@
+<map id="RtcmEncoder::encodeSsrOrbClk" name="RtcmEncoder::encodeSsrOrbClk">
+<area shape="rect" id="Node000001" href="$structRtcmEncoder.html#a9a9812f3f6389d6d39eb59a0faff70b7" title="encode orbit/clock messages" alt="" coords="5,131,232,156"/>
+<area shape="rect" id="Node000002" href="$structRtcmEncoder.html#a0faafc925ae0857559dd9a911cc3b90d" title="encode SSR header information" alt="" coords="280,5,511,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,128,198,89,279,48,324,32,326,37,281,52,201,94,140,133"/>
+<area shape="rect" id="Node000003" href="$rtcmEncoder_8cpp.html#af0d5eab5e18729b5d6b67194e94979a0" title="increasingly set unsigned bits to byte data" alt="" coords="559,37,645,63"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="224,128,394,96,548,63,549,69,395,101,225,133"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="158,128,346,88,544,52,545,57,347,93,159,133"/>
+<area shape="rect" id="Node000005" href="$rtcmEncoder_8cpp.html#a831abe42902c0ceadba66974c93a637b" title="increasingly set signed bits to byte data" alt="" coords="353,131,438,156"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="232,150,339,148,339,153,232,155"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="232,132,339,133,339,139,232,137"/>
+<area shape="rect" id="Node000007" href="$structRtcmTrace.html#ab77b0368e1844bb77eb8a91845c35673" title=" " alt="" coords="308,180,483,205"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="191,153,310,175,310,180,190,159"/>
+<area shape="rect" id="Node000013" href="$structRtcmTrace.html#a77967bdcccaac67fdcd956d47da16055" title=" " alt="" coords="309,229,481,255"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="145,154,206,184,281,214,314,224,312,229,279,219,204,189,143,159"/>
+<area shape="rect" id="Node000014" href="$structRtcmTrace.html#a72cc456a169363422bbdb71c4f12ab4f" title=" " alt="" coords="300,279,491,304"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="135,154,195,208,236,238,281,264,303,272,301,277,279,268,233,243,191,212,131,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,28,545,47,544,52,432,33"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="512,24,552,32,551,37,511,30"/>
+</map>

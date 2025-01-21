@@ -1,0 +1,7 @@
+<map id="var_uraeph" name="var_uraeph">
+<area shape="rect" id="Node000001" href="$ephBroadcast_8cpp.html#a44b66dafdc2256a58461f7eee35058a7" title="variance by ura ephemeris (ref [1] 20.3.3.3.1.1)" alt="" coords="131,31,225,56"/>
+<area shape="rect" id="Node000002" href="$ephBroadcast_8cpp.html#a231da19d50156a3a585df5e427b7723c" title="broadcast ephemeris to satellite position and clock bias compute satellite position and clock bias wi..." alt="" coords="5,5,83,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,34,82,28,84,23,117,29"/>
+<area shape="rect" id="Node000038" href="$ephBroadcast_8cpp.html#adf4c2fc1bf32e9e47969abf380cb2196" title="sbas ephemeris to satellite position and clock bias compute satellite position and clock bias with sb..." alt="" coords="5,55,83,80"/>
+<area shape="poly" id="edge2_Node000001_Node000038" title=" " alt="" coords="117,57,83,63,83,58,117,52"/>
+</map>

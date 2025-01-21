@@ -1,0 +1,31 @@
+<map id="decodecompactSSR" name="decodecompactSSR">
+<area shape="rect" id="Node000001" href="$prototypeCmpSSRDecode_8cpp.html#a64568502e5d54f952257863f6a753f7d" title=" " alt="" coords="5,327,156,352"/>
+<area shape="rect" id="Node000002" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="229,5,351,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,326,89,273,109,196,125,154,145,113,171,74,202,40,215,31,218,35,206,44,175,77,150,115,130,156,114,198,94,274,86,327"/>
+<area shape="rect" id="Node000003" href="$rtcmDecoder_8cpp.html#a85a03123ae20efc3b06434f616140943" title="extract unsigned bits from byte data" alt="" coords="256,55,324,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,326,93,281,116,217,151,148,175,117,202,89,221,78,242,71,244,76,223,83,206,93,179,120,156,151,121,219,98,282,87,327"/>
+<area shape="rect" id="Node000004" href="$prototypeCmpSSRDecode_8cpp.html#ad787861f672809e001877660a38f95c1" title="Compact SSR message type 1: satellite/code mask." alt="" coords="221,104,359,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,325,98,288,122,238,157,185,178,160,202,139,210,133,213,138,206,143,182,164,161,188,127,241,103,291,89,327"/>
+<area shape="rect" id="Node000009" href="$prototypeCmpSSRDecode_8cpp.html#ae27b0fff5c7ec85e5baf50ffa6c174dc" title="Compact SSR message type 2: global satellite orbits." alt="" coords="225,153,355,179"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="87,325,129,259,163,221,202,188,213,182,216,186,206,192,167,225,134,263,91,328"/>
+<area shape="rect" id="Node000020" href="$prototypeCmpSSRDecode_8cpp.html#addf598cda6ebf1b393189148608056e1" title="Compact SSR message type 3: global satellite clock offsets." alt="" coords="223,203,357,228"/>
+<area shape="poly" id="edge5_Node000001_Node000020" title=" " alt="" coords="92,325,138,282,169,258,203,237,218,230,220,235,205,242,172,262,141,286,96,329"/>
+<area shape="rect" id="Node000021" href="$prototypeCmpSSRDecode_8cpp.html#a3b63ded7b1ecb5ff60f33321c24ea824" title="Compact SSR message type 4: global satellite code biases." alt="" coords="207,252,373,277"/>
+<area shape="poly" id="edge6_Node000001_Node000021" title=" " alt="" coords="109,324,203,286,226,279,228,284,205,291,111,329"/>
+<area shape="rect" id="Node000022" href="$prototypeCmpSSRDecode_8cpp.html#a80ff502a5d165aeb14577439f8ec63fe" title="Compact SSR message type 5: global satellite phase biases." alt="" coords="207,301,373,327"/>
+<area shape="poly" id="edge7_Node000001_Node000022" title=" " alt="" coords="156,328,193,323,193,328,156,333"/>
+<area shape="rect" id="Node000024" href="$prototypeCmpSSRDecode_8cpp.html#a3faf903027244bcfe5b7368a2fba6eb6" title="Combined code and phase bias (with potential regional biases)" alt="" coords="205,351,375,376"/>
+<area shape="poly" id="edge8_Node000001_Node000024" title=" " alt="" coords="156,345,192,349,191,355,156,351"/>
+<area shape="rect" id="Node000025" href="$prototypeCmpSSRDecode_8cpp.html#a3aa3657a509836d3dcba87d23bf860f5" title="User Range Accuracy." alt="" coords="225,400,355,425"/>
+<area shape="poly" id="edge9_Node000001_Node000025" title=" " alt="" coords="113,350,205,385,232,393,230,399,203,390,111,355"/>
+<area shape="rect" id="Node000026" href="$prototypeCmpSSRDecode_8cpp.html#a8c718e8df7b25a5dfa2497870e53afd2" title="Compact (polynomial based) salnt TEC maps." alt="" coords="207,449,373,475"/>
+<area shape="poly" id="edge10_Node000001_Node000026" title=" " alt="" coords="97,351,143,392,173,414,205,434,223,442,221,447,203,439,170,419,139,396,93,355"/>
+<area shape="rect" id="Node000027" href="$prototypeCmpSSRDecode_8cpp.html#a50839e45f19f77e5908bfd1c9e038846" title="Grid based Ionosphere and troposphere corrections." alt="" coords="209,499,371,524"/>
+<area shape="poly" id="edge11_Node000001_Node000027" title=" " alt="" coords="91,351,134,414,167,452,206,484,219,491,216,496,202,488,163,456,130,418,87,354"/>
+<area shape="rect" id="Node000028" href="$prototypeCmpSSRDecode_8cpp.html#a90131daaca413aebd7169b0de323081a" title=" " alt="" coords="216,548,364,573"/>
+<area shape="poly" id="edge12_Node000001_Node000028" title=" " alt="" coords="89,351,103,387,127,436,162,489,182,512,206,533,216,540,213,544,202,537,179,516,157,492,123,439,98,389,84,353"/>
+<area shape="rect" id="Node000031" href="$prototypeCmpSSRDecode_8cpp.html#aece4231cd6215933cb67f695d1ef9e48" title="Compact SSR message type 11: regional satellite orbits and clock offsets." alt="" coords="207,597,373,623"/>
+<area shape="poly" id="edge13_Node000001_Node000031" title=" " alt="" coords="87,352,99,396,121,458,156,525,179,556,206,583,214,589,211,593,202,587,175,559,152,528,116,460,94,397,82,353"/>
+<area shape="rect" id="Node000032" href="$prototypeCmpSSRDecode_8cpp.html#abf7b71d9ca319924c1f90e0c9041eab2" title="Compact (polynomial based) atmospheric corrections." alt="" coords="204,647,376,672"/>
+<area shape="poly" id="edge14_Node000001_Node000032" title=" " alt="" coords="86,352,95,404,115,479,131,520,151,561,176,599,206,632,213,638,210,642,202,636,171,602,146,564,126,523,110,481,90,405,81,353"/>
+</map>

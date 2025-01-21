@@ -1,0 +1,9 @@
+<map id="RtcmDecoder::recordFrame" name="RtcmDecoder::recordFrame">
+<area shape="rect" id="Node000001" href="$structRtcmDecoder.html#a9dcc38e7fa87e8aef6ec17cc3626146a" title=" " alt="" coords="5,63,205,88"/>
+<area shape="rect" id="Node000002" href="$structRtcmEncoder.html#aec43680779bba008687e1f4f792960e1" title=" " alt="" coords="253,5,528,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,60,253,41,305,31,306,36,254,46,164,65"/>
+<area shape="rect" id="Node000007" href="$structRtcmEncoder.html#a714186471ab96d85b1fac9d1a18789a0" title=" " alt="" coords="291,55,490,95"/>
+<area shape="poly" id="edge2_Node000001_Node000007" title=" " alt="" coords="206,73,277,73,277,78,206,78"/>
+<area shape="rect" id="Node000009" href="$structRtcmEncoder.html#ac3796c0618a67c888d1d06cc0f055c12" title=" " alt="" coords="291,119,490,159"/>
+<area shape="poly" id="edge3_Node000001_Node000009" title=" " alt="" coords="163,85,288,114,287,119,162,91"/>
+</map>

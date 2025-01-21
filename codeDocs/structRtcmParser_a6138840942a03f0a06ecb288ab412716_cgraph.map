@@ -1,0 +1,36 @@
+<map id="RtcmParser::parse" name="RtcmParser::parse">
+<area shape="rect" id="Node000001" href="$structRtcmParser.html#a6138840942a03f0a06ecb288ab412716" title=" " alt="" coords="5,255,145,280"/>
+<area shape="rect" id="Node000002" href="$rtcmDecoder_8cpp.html#aaa6463f592ed6478626814466d3d02a5" title="increasingly extract unsigned bits from byte data" alt="" coords="489,293,575,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,254,89,214,110,160,144,105,166,81,192,61,245,35,270,29,293,27,317,29,342,35,395,61,424,83,448,109,469,138,487,169,512,230,527,279,522,281,507,232,482,171,465,141,444,112,420,87,392,66,340,40,316,34,293,32,271,34,247,40,195,66,169,85,148,108,115,163,94,216,83,255"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="76,254,85,209,105,148,121,116,140,86,164,59,192,37,245,11,270,5,293,3,317,5,342,11,395,37,426,61,452,90,474,122,492,157,517,225,530,279,524,281,512,227,487,159,469,125,448,93,422,65,392,42,340,16,316,10,293,8,271,10,247,16,195,42,167,63,144,89,126,119,110,150,90,211,81,255"/>
+<area shape="rect" id="Node000003" href="$rtcmDecoder_8cpp.html#a85a03123ae20efc3b06434f616140943" title="extract unsigned bits from byte data" alt="" coords="671,319,739,344"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="95,278,138,306,165,319,194,329,258,342,323,350,453,354,569,347,657,336,657,342,570,352,453,359,323,355,257,347,193,334,163,324,136,310,92,282"/>
+<area shape="rect" id="Node000004" href="$rtcmEncoder_8cpp.html#af0d5eab5e18729b5d6b67194e94979a0" title="increasingly set unsigned bits to byte data" alt="" coords="250,64,337,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,253,125,189,155,152,192,119,223,102,255,91,257,96,225,107,195,123,159,155,129,192,88,256"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="78,253,92,221,117,178,150,133,192,95,213,82,236,74,238,79,215,87,195,99,154,137,121,181,97,223,83,256"/>
+<area shape="rect" id="Node000006" href="$prototypeCmpSSRDecode_8cpp.html#a64568502e5d54f952257863f6a753f7d" title=" " alt="" coords="457,533,607,559"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="94,252,150,218,188,200,230,184,273,174,317,171,358,180,395,201,413,220,425,238,432,257,436,277,434,317,425,357,416,398,412,439,419,479,429,499,443,519,448,523,444,527,439,523,424,502,414,481,407,439,411,397,420,356,429,316,431,277,427,259,420,241,409,223,392,206,356,185,316,177,274,179,231,189,190,205,153,223,96,257"/>
+<area shape="rect" id="Node000036" href="$structRtcmDecoder.html#af4dcc94b23423696a4e8025d8235a1b1" title=" " alt="" coords="441,484,623,509"/>
+<area shape="poly" id="edge7_Node000001_Node000036" title=" " alt="" coords="92,253,136,225,163,211,193,201,250,184,298,174,321,173,344,177,368,186,395,201,411,215,421,229,429,259,433,292,444,329,483,408,519,471,514,474,478,410,439,331,428,293,424,260,416,231,407,218,392,206,366,190,343,182,320,178,299,179,251,190,194,206,165,216,138,229,95,257"/>
+<area shape="rect" id="Node000038" href="$structPacketStatistics.html#a080db5e73adbd4447002c7b54f691f03" title=" " alt="" coords="195,215,392,255"/>
+<area shape="poly" id="edge9_Node000001_Node000038" title=" " alt="" coords="145,255,181,249,182,255,146,260"/>
+<area shape="rect" id="Node000039" href="$structPacketStatistics.html#ac2f8d993a9d06c8241746a66e642e1ca" title=" " alt="" coords="196,279,391,319"/>
+<area shape="poly" id="edge10_Node000001_Node000039" title=" " alt="" coords="146,275,183,281,182,286,145,280"/>
+<area shape="rect" id="Node000040" href="$common_8cpp.html#a143f5fa72a5c2aa56901ad78710eb4c2" title="crc&#45;24q parity compute crc&#45;24q parity for sbas, rtcm3 see reference [2] A.4.3.3 Parity" alt="" coords="261,395,326,420"/>
+<area shape="poly" id="edge12_Node000001_Node000040" title=" " alt="" coords="89,279,132,325,162,351,195,373,221,386,248,395,247,400,219,391,192,378,159,355,129,328,85,282"/>
+<area shape="rect" id="Node000041" href="$structPacketStatistics.html#a332885ac12f530a7fc8a15dfc81fe747" title=" " alt="" coords="194,445,393,485"/>
+<area shape="poly" id="edge13_Node000001_Node000041" title=" " alt="" coords="85,279,124,350,156,393,195,429,206,436,203,441,192,434,152,396,120,353,80,282"/>
+<area shape="rect" id="Node000042" href="$structPacketStatistics.html#a2718aa30f1f5cacbd389d6037a1c64a9" title=" " alt="" coords="194,509,393,549"/>
+<area shape="poly" id="edge14_Node000001_Node000042" title=" " alt="" coords="82,280,94,321,115,379,149,441,170,470,195,495,201,500,198,504,192,499,166,473,144,444,111,381,89,323,77,281"/>
+<area shape="rect" id="Node000043" href="$structRtcmDecoder.html#a9dcc38e7fa87e8aef6ec17cc3626146a" title=" " alt="" coords="193,573,393,599"/>
+<area shape="poly" id="edge15_Node000001_Node000043" title=" " alt="" coords="80,280,88,332,106,408,121,449,141,489,165,526,195,559,202,564,199,569,192,563,161,530,136,492,116,451,101,409,83,333,75,281"/>
+<area shape="rect" id="Node000048" href="$structRtcmDecoder.html#a34dfe8bbed06d1cabb0fed2899584dfd" title=" " alt="" coords="211,623,376,648"/>
+<area shape="poly" id="edge16_Node000001_Node000048" title=" " alt="" coords="80,280,84,340,100,429,114,478,135,526,161,571,195,610,201,614,197,618,191,613,157,574,130,529,109,480,95,430,79,341,74,281"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,310,657,322,656,327,575,315"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="601,531,621,519,652,481,674,437,689,393,697,357,702,358,694,395,679,439,657,484,624,523,604,536"/>
+<area shape="poly" id="edge18_Node000048_Node000002" title=" " alt="" coords="375,621,392,609,406,594,415,578,423,547,427,512,439,471,478,392,513,329,518,332,482,395,444,472,432,513,428,548,420,580,410,597,395,614,378,625"/>
+<area shape="poly" id="edge17_Node000048_Node000003" title=" " alt="" coords="375,622,391,610,407,589,417,569,423,548,425,527,420,485,410,442,401,400,398,358,401,337,409,317,421,298,440,279,462,262,484,253,505,249,526,250,571,261,624,278,653,291,679,308,676,312,651,296,622,283,569,267,525,255,505,254,485,258,465,267,443,283,425,301,414,320,406,339,403,358,406,399,415,441,425,484,430,527,428,549,422,571,411,592,395,613,378,627"/>
+<area shape="poly" id="edge20_Node000048_Node000006" title=" " alt="" coords="355,620,392,609,447,587,494,563,497,568,449,591,394,614,357,625"/>
+<area shape="poly" id="edge19_Node000048_Node000036" title=" " alt="" coords="375,631,392,621,409,600,415,578,421,554,440,531,461,518,485,510,487,515,464,523,443,535,426,556,420,579,413,603,395,626,378,636"/>
+<area shape="poly" id="edge21_Node000048_Node000036" title=" " alt="" coords="333,620,363,612,392,597,407,579,414,559,418,538,429,517,434,520,424,540,419,560,412,581,395,602,365,617,334,625"/>
+</map>

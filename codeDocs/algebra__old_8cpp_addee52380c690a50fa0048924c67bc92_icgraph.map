@@ -1,0 +1,15 @@
+<map id="dot" name="dot">
+<area shape="rect" id="Node000001" href="$algebra__old_8cpp.html#addee52380c690a50fa0048924c67bc92" title=" " alt="" coords="220,129,263,155"/>
+<area shape="rect" id="Node000002" href="$ephBroadcast_8cpp.html#acf92dec14314e37b11d1fea4d109457d" title="glonass orbit differential equations" alt="" coords="65,5,112,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,118,204,79,188,60,171,44,141,30,112,23,113,18,143,25,173,40,192,57,208,76,231,115"/>
+<area shape="rect" id="Node000005" href="$coordinates_8cpp.html#a7efa6307cb6b9c8bc318bc47d698fed2" title="transform ecef to geodetic postion args : double *r I ecef position {x,y,z} (m) notes : WGS84,..." alt="" coords="48,55,129,80"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="214,123,171,94,129,78,130,73,173,89,217,118"/>
+<area shape="rect" id="Node000006" href="$algebra__old_8cpp.html#abaa5d4a31df361116a9b2be552624cf9" title=" " alt="" coords="61,104,117,129"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="206,139,117,124,117,119,207,134"/>
+<area shape="rect" id="Node000051" href="$rtkcmn_8cpp.html#a043d5d9da866bca2f19bf4a74ad8b2f5" title="satellite azimuth/elevation angle" alt="" coords="54,153,123,179"/>
+<area shape="poly" id="edge4_Node000001_Node000051" title=" " alt="" coords="207,150,124,163,123,158,206,145"/>
+<area shape="rect" id="Node000052" href="$attitude_8cpp.html#a1d392d7cfe6d33e3fa11664aeeef4f12" title="Calculates satellite orbit geometry &#45; for use in calculating modelled yaw." alt="" coords="19,203,158,228"/>
+<area shape="poly" id="edge5_Node000001_Node000052" title=" " alt="" coords="215,166,173,192,141,205,139,200,171,188,213,161"/>
+<area shape="rect" id="Node000055" href="$structTidalWave.html#ae3e004ca457c57e7b0e6d783f3a55a73" title=" " alt="" coords="5,252,172,277"/>
+<area shape="poly" id="edge6_Node000001_Node000055" title=" " alt="" coords="231,169,208,206,192,225,174,242,150,254,147,250,170,237,188,221,203,203,226,166"/>
+</map>

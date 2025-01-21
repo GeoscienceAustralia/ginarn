@@ -1,0 +1,44 @@
+<map id="updateSatYaw" name="updateSatYaw">
+<area shape="rect" id="Node000001" href="$attitude_8cpp.html#aac7be95f5d7dbf6cf5d647524555edcb" title="Calculates nominal &amp; model yaw." alt="" coords="5,452,119,477"/>
+<area shape="rect" id="Node000002" href="$attitude_8cpp.html#a1d392d7cfe6d33e3fa11664aeeef4f12" title="Calculates satellite orbit geometry &#45; for use in calculating modelled yaw." alt="" coords="167,5,305,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,451,73,369,95,246,125,123,144,74,165,40,168,37,172,41,169,44,149,76,130,125,100,247,79,370,67,452"/>
+<area shape="rect" id="Node000038" href="$attitude_8cpp.html#a46cec52b21a1c337c0ca23eba28f5bca" title="Yaw model for GPS&#45;IIA sats Ref: http://acc.igs.org/orbits/EclipseReadMe.pdf Ref: https://igsac&#45;cnes...." alt="" coords="181,55,291,80"/>
+<area shape="poly" id="edge2_Node000001_Node000038" title=" " alt="" coords="61,452,64,391,77,298,90,245,108,193,133,143,165,98,180,85,183,89,169,101,138,146,113,195,95,247,83,299,69,391,66,452"/>
+<area shape="rect" id="Node000043" href="$attitude_8cpp.html#a43e7b17b62853da813d5289667b3284e" title="Yaw model for GPS&#45;IIR sats Ref: http://acc.igs.org/orbits/EclipseReadMe.pdf Ref: https://igsac&#45;cnes...." alt="" coords="353,117,463,143"/>
+<area shape="poly" id="edge4_Node000001_Node000043" title=" " alt="" coords="61,452,65,400,80,325,93,285,111,245,135,209,165,177,205,153,251,139,297,132,339,130,340,135,297,137,252,144,207,158,168,181,139,212,116,248,98,287,85,327,71,401,66,452"/>
+<area shape="poly" id="edge26_Node000001_Node000043" title=" " alt="" coords="61,451,64,395,77,314,90,270,109,227,133,187,165,153,187,138,211,127,262,113,313,110,358,113,358,118,313,115,263,118,213,132,189,143,168,157,137,190,113,229,95,272,83,315,69,396,66,452"/>
+<area shape="rect" id="Node000049" href="$attitude_8cpp.html#af06aa2920ea6c715fd8973e86ab0822f" title="Yaw model for GPS&#45;IIF sats Ref: https://www.researchgate.net/publication/306924379_Observed_features_..." alt="" coords="182,180,290,205"/>
+<area shape="poly" id="edge5_Node000001_Node000049" title=" " alt="" coords="62,451,71,407,88,344,119,275,140,243,165,215,170,211,173,215,169,219,144,246,124,278,93,346,76,408,68,452"/>
+<area shape="rect" id="Node000050" href="$attitude_8cpp.html#afd2653cc1d2bee172447ed161bf0f19d" title="Yaw model for GPS&#45;III sats Ref: https://www.gpsworld.com/new&#45;type&#45;on&#45;the&#45;block&#45;generating&#45;high&#45;precis..." alt="" coords="184,229,288,255"/>
+<area shape="poly" id="edge7_Node000001_Node000050" title=" " alt="" coords="64,451,75,415,95,365,124,311,143,286,165,264,171,260,174,264,168,268,147,290,129,314,99,367,80,416,69,453"/>
+<area shape="rect" id="Node000051" href="$attitude_8cpp.html#af64a8516da71e0d4f37682b1935fdca3" title="Yaw model for GLONASS sats Returns false if no modelled yaw available Ref: https://igsac&#45;cnes...." alt="" coords="191,279,281,304"/>
+<area shape="poly" id="edge8_Node000001_Node000051" title=" " alt="" coords="66,451,102,386,130,347,165,313,177,305,180,310,168,317,134,351,106,389,71,453"/>
+<area shape="rect" id="Node000053" href="$attitude_8cpp.html#a495599eb343fc2c69bdb86eebb2aec2b" title="Yaw model for GLONASS Block K sats Note: no yaw model exists for GLONASS&#45;K yet." alt="" coords="187,328,285,353"/>
+<area shape="poly" id="edge9_Node000001_Node000053" title=" " alt="" coords="71,450,110,408,136,384,165,362,176,356,179,361,168,367,140,388,114,411,75,454"/>
+<area shape="rect" id="Node000054" href="$attitude_8cpp.html#a18338f781fea251d0f8b03666fde5b9e" title="Yaw model for GAL IOV sats." alt="" coords="181,377,291,403"/>
+<area shape="poly" id="edge10_Node000001_Node000054" title=" " alt="" coords="86,450,166,412,183,405,185,410,168,416,88,454"/>
+<area shape="rect" id="Node000057" href="$attitude_8cpp.html#abdce260d1dd40f5c15f4003e87bafd3b" title="Yaw model for GAL FOC sats." alt="" coords="181,427,291,452"/>
+<area shape="poly" id="edge11_Node000001_Node000057" title=" " alt="" coords="119,454,166,447,167,452,119,459"/>
+<area shape="rect" id="Node000061" href="$attitude_8cpp.html#abd7ddf5a848e540724fe5341542eef52" title="Yaw model for BDS&#45;2I/2M satellites Requires bds_yaw_modes.snx Ref: https://doi.org/10...." alt="" coords="187,476,285,501"/>
+<area shape="poly" id="edge12_Node000001_Node000061" title=" " alt="" coords="100,475,173,486,172,491,100,480"/>
+<area shape="poly" id="edge16_Node000001_Node000061" title=" " alt="" coords="119,461,184,471,184,476,119,467"/>
+<area shape="rect" id="Node000063" href="$attitude_8cpp.html#a72b1b0bdafc8daa3b75faa96049b514f" title="Yaw model for BDS&#45;3I/3M satellites Ref: https://doi.org/10.1007/s10291&#45;018&#45;0783&#45;1 https://doi...." alt="" coords="359,425,457,451"/>
+<area shape="poly" id="edge17_Node000001_Node000063" title=" " alt="" coords="74,475,114,502,140,514,167,522,206,530,237,534,267,532,304,522,330,511,354,495,390,460,394,464,357,499,333,515,306,527,268,537,237,540,205,536,166,527,138,519,111,506,71,480"/>
+<area shape="poly" id="edge18_Node000001_Node000063" title=" " alt="" coords="105,475,135,488,167,498,206,506,237,510,267,508,304,498,341,480,373,457,376,462,344,485,306,503,268,513,237,516,205,512,166,503,133,493,103,480"/>
+<area shape="rect" id="Node000064" href="$attitude_8cpp.html#a7da34cb31c95554835b5872eabf41df1" title="Orbit normal yaw model Will set nominalYaw &amp; modelYaw to the orbit&#45;normal yaw (0 or PI) closest to th..." alt="" coords="511,539,624,564"/>
+<area shape="poly" id="edge15_Node000001_Node000064" title=" " alt="" coords="75,475,114,501,167,522,255,541,344,552,427,557,497,558,497,563,427,563,343,557,254,546,166,527,112,506,72,480"/>
+<area shape="poly" id="edge20_Node000001_Node000064" title=" " alt="" coords="107,475,167,498,255,517,344,529,497,540,496,546,343,534,254,522,166,503,105,480"/>
+<area shape="rect" id="Node000066" href="$attitude_8cpp.html#ad8ec6bbdac1098900409cd45ace7c105" title="Yaw model for BDS&#45;3M&#45;SECM satellites Ref: https://doi.org/10.48550/arXiv.2112.13252." alt="" coords="169,676,303,701"/>
+<area shape="poly" id="edge19_Node000001_Node000066" title=" " alt="" coords="68,477,79,512,98,560,127,613,168,665,163,668,123,616,93,562,74,513,63,478"/>
+<area shape="poly" id="edge21_Node000001_Node000066" title=" " alt="" coords="72,477,105,554,133,600,168,643,188,657,209,668,207,672,185,661,165,647,129,604,100,556,67,479"/>
+<area shape="rect" id="Node000067" href="$attitude_8cpp.html#a11f76062306c3303d884e53aeaa74696" title="Yaw model for QZSS&#45;1 satellites Requires qzss_yaw_modes.snx &#45; generated by scripts/qzss_ohi_merge...." alt="" coords="359,727,457,752"/>
+<area shape="poly" id="edge22_Node000001_Node000067" title=" " alt="" coords="67,477,73,523,90,588,103,622,120,655,142,685,168,711,209,732,255,744,302,748,345,746,345,751,302,753,255,749,208,737,165,715,137,689,115,658,98,624,84,589,68,524,62,478"/>
+<area shape="rect" id="Node000068" href="$attitude_8cpp.html#ae895bad3e9b1c1ce5b6ccadab478b787" title="Yaw model for QZSS&#45;2I &amp; QZSS&#45;2A satellites Requires qzss_yaw_modes.snx &#45; generated by scripts/qzss_oh..." alt="" coords="185,777,287,803"/>
+<area shape="poly" id="edge24_Node000001_Node000068" title=" " alt="" coords="67,477,74,528,90,601,104,642,121,683,142,721,169,756,184,769,180,773,165,760,138,724,116,685,99,644,85,603,69,528,62,478"/>
+<area shape="poly" id="edge3_Node000038_Node000043" title=" " alt="" coords="273,78,360,110,358,115,271,83"/>
+<area shape="poly" id="edge6_Node000049_Node000043" title=" " alt="" coords="271,177,358,145,360,150,273,182"/>
+<area shape="poly" id="edge13_Node000061_Node000063" title=" " alt="" coords="279,473,350,452,352,457,281,478"/>
+<area shape="poly" id="edge14_Node000061_Node000064" title=" " alt="" coords="286,491,369,501,463,518,516,532,515,537,462,523,368,507,285,496"/>
+<area shape="poly" id="edge23_Node000067_Node000064" title=" " alt="" coords="418,725,544,573,548,577,422,728"/>
+<area shape="poly" id="edge25_Node000068_Node000067" title=" " alt="" coords="279,775,350,753,352,759,281,780"/>
+</map>

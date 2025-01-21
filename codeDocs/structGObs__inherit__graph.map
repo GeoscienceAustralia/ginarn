@@ -1,0 +1,13 @@
+<map id="GObs" name="GObs">
+<area shape="rect" id="Node000001" href="$structGObs.html" title="Raw observation data from a receiver." alt="" coords="214,1393,393,1524"/>
+<area shape="rect" id="Node000002" href="$structObservation.html" title=" " alt="" coords="40,769,191,965"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,979,134,1062,151,1155,176,1252,212,1344,243,1392,238,1394,208,1347,171,1254,146,1156,129,1063,119,980"/>
+<area shape="rect" id="Node000003" href="$structObsMeta.html" title=" " alt="" coords="5,5,196,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,355,116,769,111,769,102,355"/>
+<area shape="rect" id="Node000004" href="$structGObsMeta.html" title="Observation metadata and data derived from it." alt="" coords="222,799,385,935"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="306,949,306,1393,301,1393,301,949"/>
+<area shape="rect" id="Node000005" href="$structIonoObs.html" title=" " alt="" coords="220,15,403,331"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="312,345,307,799,301,799,307,345"/>
+<area shape="rect" id="Node000006" href="$structSatPos.html" title="Satellite position data &#45; for determining and storing satellite positions/clocks." alt="" coords="409,389,608,1345"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="406,1332,399,1347,368,1394,363,1391,394,1344,401,1330"/>
+</map>

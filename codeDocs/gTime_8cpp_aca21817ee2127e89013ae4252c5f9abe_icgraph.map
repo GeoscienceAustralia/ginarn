@@ -1,0 +1,54 @@
+<map id="str2num" name="str2num">
+<area shape="rect" id="Node000001" href="$gTime_8cpp.html#aca21817ee2127e89013ae4252c5f9abe" title=" " alt="" coords="373,548,449,573"/>
+<area shape="rect" id="Node000002" href="$rinex_8cpp.html#a3ae01240baac2b9246e1d1f4ad068eaf" title="Decode gnav header." alt="" coords="180,5,293,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,534,402,427,388,280,378,205,363,137,345,81,323,44,309,33,293,26,295,21,312,28,327,40,350,79,369,136,383,204,394,279,407,427,412,534"/>
+<area shape="rect" id="Node000003" href="$rinex_8cpp.html#a8751d1a1d98fb7862f17d0a3ebc22310" title="Read rinex header." alt="" coords="9,104,96,129"/>
+<area shape="poly" id="edge26_Node000001_Node000003" title=" " alt="" coords="412,588,405,678,391,798,380,859,366,913,349,957,327,985,281,1014,258,1022,236,1024,213,1022,191,1015,168,1003,146,985,139,971,132,943,118,853,89,585,52,130,58,130,94,585,123,852,137,942,144,969,150,982,171,998,193,1010,214,1017,236,1019,257,1017,279,1009,324,981,344,954,361,911,375,858,386,798,400,678,406,587"/>
+<area shape="rect" id="Node000006" href="$rinex_8cpp.html#aeb9ed7a2f9c56ac369434c213abaed3e" title="Decode geo nav header." alt="" coords="180,55,293,80"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="406,534,400,437,385,304,374,237,361,176,344,127,323,93,309,82,292,75,295,70,312,78,327,90,348,124,366,175,380,236,391,304,405,436,411,534"/>
+<area shape="rect" id="Node000007" href="$rinex_8cpp.html#a7a60f187ca9defbaa801f242efb7f18b" title="Decode nav header." alt="" coords="184,104,289,129"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="406,535,398,446,382,329,358,216,342,172,323,142,308,131,289,124,291,119,310,126,327,139,347,170,363,214,387,328,403,446,411,534"/>
+<area shape="rect" id="Node000008" href="$rinex_8cpp.html#a435e959376f897a6b62de80b86e0d451" title="Decode obs data." alt="" coords="174,153,299,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="405,534,395,455,379,353,355,255,340,217,323,192,298,176,301,172,327,188,345,215,360,253,384,352,401,455,410,534"/>
+<area shape="rect" id="Node000011" href="$rinex_8cpp.html#a88f2d75f4dbbc4569d0fc07e474d63cc" title="Decode obs epoch." alt="" coords="170,203,303,228"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="404,535,393,466,375,378,352,295,338,263,323,241,302,227,305,223,327,237,343,260,357,293,381,376,398,465,409,534"/>
+<area shape="rect" id="Node000012" href="$rinex_8cpp.html#a774458b36a7a13e1263568e05106dc83" title="Decode obs header." alt="" coords="185,252,289,277"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="407,534,403,483,390,417,380,383,365,349,347,318,324,291,307,279,288,272,290,267,310,275,327,287,351,315,370,347,385,381,395,416,408,482,412,534"/>
+<area shape="rect" id="Node000013" href="$sinex_8cpp.html#aa2eb2d6f83fd2f3646a9b88a437aa0af" title=" " alt="" coords="186,301,287,327"/>
+<area shape="poly" id="edge11_Node000001_Node000013" title=" " alt="" coords="405,535,398,492,384,439,360,386,343,361,324,340,307,329,287,322,289,317,309,324,327,336,347,358,364,383,389,437,403,491,410,534"/>
+<area shape="rect" id="Node000018" href="$sinex_8cpp.html#aafaf4751ee5f829fd428da86b8371e2a" title=" " alt="" coords="163,351,310,376"/>
+<area shape="poly" id="edge12_Node000001_Node000018" title=" " alt="" coords="402,535,392,502,376,462,354,423,324,389,306,378,308,374,327,385,358,420,381,460,397,500,407,534"/>
+<area shape="rect" id="Node000019" href="$sinex_8cpp.html#a694129e6bf735ab72f742ef1ab1b7af3" title=" " alt="" coords="180,400,293,425"/>
+<area shape="poly" id="edge13_Node000001_Node000019" title=" " alt="" coords="397,537,369,487,348,461,324,439,293,424,295,419,327,434,352,457,373,484,402,534"/>
+<area shape="rect" id="Node000020" href="$sinex_8cpp.html#aeeafb3496cb618d93d588c6fae3aecf9" title=" " alt="" coords="148,449,325,475"/>
+<area shape="poly" id="edge14_Node000001_Node000020" title=" " alt="" coords="388,540,359,513,324,488,298,477,300,472,327,484,362,508,391,536"/>
+<area shape="rect" id="Node000021" href="$sinex_8cpp.html#aae67ba41cd3a4ad095c92d6d3295ced5" title=" " alt="" coords="149,499,325,524"/>
+<area shape="poly" id="edge15_Node000001_Node000021" title=" " alt="" coords="359,548,325,538,284,527,286,522,326,533,361,543"/>
+<area shape="rect" id="Node000022" href="$ephPrecise_8cpp.html#af673ac04c3dea7304383eb4ef76318ba" title="read dcb parameters file" alt="" coords="199,548,274,573"/>
+<area shape="poly" id="edge16_Node000001_Node000022" title=" " alt="" coords="359,563,274,563,274,558,359,558"/>
+<area shape="rect" id="Node000023" href="$erp_8cpp.html#a65e5b05849c2712fe7fc84de6140b13f" title="read IERS final EOP products" alt="" coords="183,597,290,623"/>
+<area shape="poly" id="edge17_Node000001_Node000023" title=" " alt="" coords="361,578,284,600,282,595,359,572"/>
+<area shape="rect" id="Node000025" href="$ionex_8cpp.html#abf1aa645c47caa10ebb6f4447dc72cbc" title=" " alt="" coords="189,647,284,672"/>
+<area shape="poly" id="edge18_Node000001_Node000025" title=" " alt="" coords="391,585,362,612,327,636,285,652,283,647,324,632,359,608,387,581"/>
+<area shape="rect" id="Node000027" href="$ionex_8cpp.html#ad8d9b28daf532c13a9a7e71912cae79f" title="read ionex dcb aux data" alt="" coords="181,696,292,721"/>
+<area shape="poly" id="edge19_Node000001_Node000027" title=" " alt="" coords="401,587,372,637,352,663,327,686,294,702,291,697,324,681,348,660,368,634,397,584"/>
+<area shape="rect" id="Node000028" href="$ionex_8cpp.html#aaa98d3b461d6df7be466702f97817da4" title=" " alt="" coords="5,721,100,747"/>
+<area shape="poly" id="edge21_Node000001_Node000028" title=" " alt="" coords="409,588,400,623,385,665,361,705,345,722,327,736,299,750,268,759,205,765,145,760,95,749,96,744,146,754,205,760,267,754,297,745,324,732,342,718,357,701,380,662,395,622,403,587"/>
+<area shape="rect" id="Node000029" href="$tides_8cpp.html#a1425ef4f680e83dce84af83d374efa25" title="Read ocean pole load tide coefficients." alt="" coords="159,797,314,823"/>
+<area shape="poly" id="edge22_Node000001_Node000029" title=" " alt="" coords="409,587,401,629,386,680,362,733,346,758,327,780,296,799,293,795,324,776,342,755,358,731,381,678,396,628,404,586"/>
+<area shape="rect" id="Node000031" href="$orbex_8cpp.html#aee81025026cfd3a1c193d9eb64df2895" title="Read EPHEMERIS/DATA block Note: Only ATT record type is supported currently." alt="" coords="179,847,294,872"/>
+<area shape="poly" id="edge23_Node000001_Node000031" title=" " alt="" coords="412,587,408,640,396,707,385,742,370,777,351,809,327,837,312,848,295,855,293,850,309,843,324,833,347,806,366,774,380,740,391,705,403,639,407,587"/>
+<area shape="rect" id="Node000035" href="$orbex_8cpp.html#a22504f72305e51c2d74ec94b113744df" title="Read and check the two header lines from an orbex file." alt="" coords="168,896,305,921"/>
+<area shape="poly" id="edge24_Node000001_Node000035" title=" " alt="" coords="409,587,398,657,381,746,357,831,343,864,327,887,307,900,304,896,323,883,338,861,352,829,376,745,393,656,404,586"/>
+<area shape="rect" id="Node000036" href="$rinex_8cpp.html#a31dd08ba5cac291e98978728ec29f60c" title="Read rinex clock." alt="" coords="188,945,285,971"/>
+<area shape="poly" id="edge25_Node000001_Node000036" title=" " alt="" coords="410,587,401,667,384,771,360,870,345,909,327,936,308,949,286,957,285,952,306,945,323,932,340,906,355,868,379,770,396,666,405,587"/>
+<area shape="rect" id="Node000037" href="$rinex_8cpp.html#a792445378357d92f2cba6dc7ec14c75b" title="Read rinex navigation data body." alt="" coords="181,1047,292,1072"/>
+<area shape="poly" id="edge27_Node000001_Node000037" title=" " alt="" coords="411,588,404,684,389,816,378,882,364,943,348,994,327,1029,312,1042,294,1052,291,1047,309,1038,323,1026,343,992,359,942,373,881,384,815,399,684,406,587"/>
+<area shape="rect" id="Node000039" href="$sp3_8cpp.html#a02d321d95cd2020d9ad64a3abfba6216" title="read an epoch of data from an sp3 precise ephemeris file" alt="" coords="199,1096,274,1121"/>
+<area shape="poly" id="edge28_Node000001_Node000039" title=" " alt="" coords="412,587,407,695,394,844,383,920,369,990,351,1047,327,1086,303,1103,275,1110,274,1105,301,1098,323,1083,346,1045,364,988,378,919,389,843,402,695,407,587"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,37,149,44,103,75,69,106,65,102,100,71,147,40,165,32"/>
+<area shape="poly" id="edge4_Node000006_Node000003" title=" " alt="" coords="176,86,97,108,95,103,175,81"/>
+<area shape="poly" id="edge6_Node000007_Node000003" title=" " alt="" coords="171,119,96,119,96,114,171,114"/>
+<area shape="poly" id="edge10_Node000012_Node000003" title=" " alt="" coords="170,254,147,242,116,215,91,184,58,131,63,128,95,181,120,211,149,237,173,249"/>
+<area shape="poly" id="edge20_Node000027_Node000028" title=" " alt="" coords="168,721,101,730,100,725,167,716"/>
+</map>

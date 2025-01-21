@@ -1,0 +1,10 @@
+<map id="InteractiveTerminal::drawMenus" name="InteractiveTerminal::drawMenus">
+<area shape="rect" id="Node000001" href="$structInteractiveTerminal.html#a378d8feb06a2859e0379e31ad64b8d00" title=" " alt="" coords="397,33,545,73"/>
+<area shape="rect" id="Node000002" href="$structInteractiveTerminal.html#aa4d56fa8b2ff55eed67139e196fe0a62" title=" " alt="" coords="5,5,153,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,33,349,24,247,18,153,21,153,16,247,13,350,19,394,27"/>
+<area shape="rect" id="Node000005" href="$structInteractiveTerminal.html#a5e1d392a4ef1e649558cf0b9d9978a40" title=" " alt="" coords="201,33,349,73"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="383,56,350,56,350,51,383,51"/>
+<area shape="rect" id="Node000006" href="$structInteractiveTerminal.html#a1673a1bc7c18472e291aa3b1ed1bb1b7" title=" " alt="" coords="201,97,349,137"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="398,80,338,100,336,95,396,75"/>
+<area shape="poly" id="edge3_Node000005_Node000002" title=" " alt="" coords="187,43,153,39,154,33,188,38"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="updatePseudoPulses" name="updatePseudoPulses">
+<area shape="rect" id="Node000001" href="$ppppp_8cpp.html#a0c7e9127b8ac6b4b5f865d1220efe547" title=" " alt="" coords="5,55,161,80"/>
+<area shape="rect" id="Node000002" href="$structACSConfig.html#a20ca3689eafecfa2b7e656c28e340256" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="232,5,401,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,52,242,31,243,36,145,57"/>
+<area shape="rect" id="Node000025" href="$structKFState.html#aece25f1cafe5d3b85dc07f6ec1f57196" title=" " alt="" coords="209,55,424,80"/>
+<area shape="poly" id="edge2_Node000001_Node000025" title=" " alt="" coords="162,73,196,74,196,79,161,79"/>
+<area shape="poly" id="edge3_Node000001_Node000025" title=" " alt="" coords="161,56,196,56,196,61,162,61"/>
+</map>

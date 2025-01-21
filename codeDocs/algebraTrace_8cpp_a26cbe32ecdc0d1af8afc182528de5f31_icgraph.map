@@ -1,0 +1,34 @@
+<map id="Binary_Archive__" name="Binary_Archive__">
+<area shape="rect" id="Node000001" href="$algebraTrace_8cpp.html#a26cbe32ecdc0d1af8afc182528de5f31" title="Save complex variables to files." alt="" coords="584,179,719,204"/>
+<area shape="rect" id="Node000002" href="$Ginan_8cpp.html#a44b52eb6f1cd854c04fae132163eade8" title="C++ Extensions." alt="" coords="431,55,504,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="619,173,486,82,489,78,622,169"/>
+<area shape="rect" id="Node000006" href="$algebra_8cpp.html#a4f61fee46942aeff4254e6e547ddf18c" title="Kalman Filter." alt="" coords="404,153,531,179"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="570,183,531,177,531,172,570,178"/>
+<area shape="rect" id="Node000031" href="$rtsSmoothing_8cpp.html#a4c9fa22ff9ec40f576c4c14165d47426" title="Rauch&#45;Tung&#45;Striebel Smoothing." alt="" coords="399,203,536,228"/>
+<area shape="poly" id="edge7_Node000001_Node000031" title=" " alt="" coords="570,205,537,209,536,204,570,199"/>
+<area shape="rect" id="Node000034" href="$algebraTrace_8hpp.html#a763d8db4343fa73fa264de91d8cda786" title="Output filter state to a file for later reading." alt="" coords="409,301,525,327"/>
+<area shape="poly" id="edge10_Node000001_Node000034" title=" " alt="" coords="621,214,489,303,486,299,618,210"/>
+<area shape="rect" id="Node000003" href="$Ginan_8cpp.html#ad1ea9b59f3d98f3b75d7a93ca29d4d3a" title="3rd&#45;party libraries extend functionality." alt="" coords="191,5,283,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,59,350,45,283,30,284,25,351,39,417,54"/>
+<area shape="rect" id="Node000007" href="$structKFState.html#a0d12c57e70876543084c182a660bbbd3" title="Kalman filter operation." alt="" coords="157,104,317,129"/>
+<area shape="poly" id="edge4_Node000006_Node000007" title=" " alt="" coords="395,153,350,143,298,132,299,127,351,138,396,148"/>
+<area shape="rect" id="Node000030" href="$ppppp_8cpp.html#a806c4571abfde8d490598ec186768d7f" title="Primary estimation and filtering." alt="" coords="183,153,291,179"/>
+<area shape="poly" id="edge6_Node000006_Node000030" title=" " alt="" coords="390,169,291,169,291,163,390,163"/>
+<area shape="rect" id="Node000019" href="$minimumConstraints_8cpp.html#aa40934b017f373d875c3470591eff52e" title=" " alt="" coords="5,352,76,377"/>
+<area shape="poly" id="edge5_Node000007_Node000019" title=" " alt="" coords="146,130,126,143,104,166,86,194,62,254,50,311,45,352,40,351,44,310,57,252,81,191,100,163,122,139,143,126"/>
+<area shape="rect" id="Node000032" href="$Ginan_8cpp.html#a4fa4f422258b4feec680a5792f079571" title=" " alt="" coords="173,203,301,228"/>
+<area shape="poly" id="edge8_Node000031_Node000032" title=" " alt="" coords="385,218,301,218,301,213,385,213"/>
+<area shape="rect" id="Node000033" href="$rtsSmoothing_8cpp.html#afe61b630478279fa8f090204938fede8" title="Iterate over stored filter states in reverse and perform filtering." alt="" coords="183,252,292,277"/>
+<area shape="poly" id="edge9_Node000031_Node000033" title=" " alt="" coords="395,234,293,256,292,250,394,228"/>
+<area shape="poly" id="edge12_Node000034_Node000007" title=" " alt="" coords="441,293,396,241,383,212,376,187,368,164,349,143,316,126,319,122,352,139,373,162,381,185,388,210,401,238,445,290"/>
+<area shape="poly" id="edge14_Node000034_Node000019" title=" " alt="" coords="403,332,351,342,198,359,77,366,76,361,198,353,350,337,402,327"/>
+<area shape="rect" id="Node000035" href="$outputs_8cpp.html#a116830f5a44aad1710dc47ecfa670cab" title="Create new empty trace files only when required when the filename is changed." alt="" coords="175,55,299,80"/>
+<area shape="poly" id="edge11_Node000034_Node000035" title=" " alt="" coords="439,293,417,269,396,241,386,219,381,198,378,161,372,126,364,110,349,93,326,79,299,72,301,66,328,74,352,89,368,107,377,125,384,160,386,197,391,217,401,238,421,266,443,290"/>
+<area shape="rect" id="Node000036" href="$structKFState.html#a35b82ca74c6a6795abf1b6e919a4fec1" title="Add process noise and dynamics to filter object manually." alt="" coords="124,301,351,327"/>
+<area shape="poly" id="edge13_Node000034_Node000036" title=" " alt="" coords="395,317,351,317,351,311,395,311"/>
+<area shape="rect" id="Node000037" href="$algebraTrace_8cpp.html#ab985d37dc7eba5832e0b6867d2e45dd6" title=" " alt="" coords="171,403,304,428"/>
+<area shape="poly" id="edge15_Node000034_Node000037" title=" " alt="" coords="438,337,398,362,352,386,295,405,294,400,350,381,395,357,435,332"/>
+<area shape="rect" id="Node000040" href="$structKFState.html#a7f8e4b9291361c063cef8d9178f07707" title="Add process noise and dynamics to filter object according to time gap." alt="" coords="149,452,325,477"/>
+<area shape="poly" id="edge16_Node000034_Node000040" title=" " alt="" coords="453,340,412,393,384,420,352,443,326,454,324,449,349,438,380,416,408,389,449,337"/>
+<area shape="poly" id="edge17_Node000040_Node000019" title=" " alt="" coords="138,450,123,443,80,412,50,379,54,376,84,408,125,438,141,445"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="propagateEllipse" name="propagateEllipse">
+<area shape="rect" id="Node000001" href="$orbits_8cpp.html#aefaca6400f01b33fcf0b7c142032f02b" title=" " alt="" coords="5,153,136,179"/>
+<area shape="rect" id="Node000002" href="$erp_8cpp.html#afe3874cc58d609f4ccc2b03a5ef632b8" title="Get earth rotation parameter values." alt="" coords="214,5,278,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,151,119,98,149,67,182,40,200,30,203,35,186,44,153,71,123,102,83,155"/>
+<area shape="rect" id="Node000023" href="$orbits_8cpp.html#ad07ed5d84b008135e7eb3f4b7a7755ca" title=" " alt="" coords="184,55,308,80"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="87,151,130,121,183,89,195,83,197,88,185,94,132,126,90,155"/>
+<area shape="rect" id="Node000024" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="203,104,289,129"/>
+<area shape="poly" id="edge3_Node000001_Node000024" title=" " alt="" coords="116,151,188,130,190,135,117,156"/>
+<area shape="rect" id="Node000027" href="$eigenIncluder_8hpp.html#af8ecdf7d802c3014eaa5e85b261390be" title=" " alt="" coords="202,153,290,179"/>
+<area shape="poly" id="edge4_Node000001_Node000027" title=" " alt="" coords="136,172,188,172,188,177,136,177"/>
+<area shape="poly" id="edge5_Node000001_Node000027" title=" " alt="" coords="136,155,188,155,188,160,136,160"/>
+<area shape="rect" id="Node000028" href="$orbits_8cpp.html#ac7bcb070da367c2f2613131d84e4bcd3" title=" " alt="" coords="185,203,307,228"/>
+<area shape="poly" id="edge6_Node000001_Node000028" title=" " alt="" coords="95,176,172,201,171,206,94,181"/>
+<area shape="poly" id="edge7_Node000001_Node000028" title=" " alt="" coords="137,173,210,195,209,200,136,178"/>
+</map>

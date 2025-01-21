@@ -1,0 +1,47 @@
+<map id="VectorPos::lat" name="VectorPos::lat">
+<area shape="rect" id="Node000001" href="$structVectorPos.html#a63e862a389b3548bc5b4aedabd94540b" title=" " alt="" coords="411,456,521,481"/>
+<area shape="rect" id="Node000002" href="$debug_8cpp.html#a024d78c0bdafab9654bb34addd8d14cc" title=" " alt="" coords="204,5,363,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,443,447,353,427,234,398,119,380,74,361,44,346,33,349,29,365,40,385,72,403,117,432,233,453,353,464,442"/>
+<area shape="rect" id="Node000003" href="$debug_8cpp.html#ab1c89bb12579ace0fe0ec45523ed9567" title=" " alt="" coords="222,55,345,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="462,442,459,375,445,285,432,236,414,188,391,142,361,101,348,90,333,82,336,78,351,86,365,98,395,139,419,185,437,234,450,284,464,375,468,442"/>
+<area shape="rect" id="Node000004" href="$debug_8cpp.html#a87c5753b6cf593f61c84b8b25cf8303f" title=" " alt="" coords="5,492,156,517"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,442,461,379,449,296,436,253,418,212,393,176,361,145,320,122,282,113,263,115,244,120,206,145,188,164,176,183,168,202,165,221,167,262,176,304,186,348,191,392,184,436,173,459,158,481,142,494,139,490,154,478,169,456,178,435,185,392,181,348,171,305,161,263,159,221,163,200,171,180,184,160,202,141,242,116,262,109,282,108,322,117,364,141,397,172,422,210,441,252,454,295,466,378,468,442"/>
+<area shape="rect" id="Node000005" href="$coordinates_8cpp.html#a7efa6307cb6b9c8bc318bc47d698fed2" title="transform ecef to geodetic postion args : double *r I ecef position {x,y,z} (m) notes : WGS84,..." alt="" coords="243,156,324,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="460,442,452,390,435,324,406,254,386,223,361,195,344,183,324,176,325,171,346,178,364,191,390,219,411,252,440,322,457,389,465,442"/>
+<area shape="rect" id="Node000006" href="$geomagField_8cpp.html#a1a9089a9e8fb29db7da8a88c9abcf491" title="Compute the geomagnetic field components in geocentric local reference system at given time and posit..." alt="" coords="206,205,361,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="458,443,447,400,428,346,400,291,382,266,361,244,344,233,346,228,364,240,386,263,405,288,433,344,452,398,463,442"/>
+<area shape="rect" id="Node000015" href="$ionModels_8cpp.html#a57191b4303a5b58e1a21fe08ab32538c" title=" " alt="" coords="242,255,325,280"/>
+<area shape="poly" id="edge6_Node000001_Node000015" title=" " alt="" coords="454,444,441,410,421,369,395,328,361,293,343,283,324,276,326,271,346,278,364,289,399,325,426,366,446,407,459,442"/>
+<area shape="rect" id="Node000028" href="$ionModels_8cpp.html#ad21f16251002ad73463ac689903d5c91" title=" " alt="" coords="250,304,317,329"/>
+<area shape="poly" id="edge7_Node000001_Node000028" title=" " alt="" coords="447,446,411,398,387,373,361,351,339,338,316,328,318,323,341,333,364,346,391,369,415,395,451,443"/>
+<area shape="rect" id="Node000038" href="$ionoSphericalCaps_8cpp.html#af953ae8b4e5d94daecada20e21dd59a2" title="transforms the Ionosphere Piercing Point and checks if it falls in area of coverage time: I time of o..." alt="" coords="16,368,145,393"/>
+<area shape="poly" id="edge8_Node000001_Node000038" title=" " alt="" coords="428,452,362,426,248,401,145,388,146,383,249,396,363,421,430,447"/>
+<area shape="rect" id="Node000046" href="$ionoSpherical_8cpp.html#a5b7bfe4a5b9c8c410133e7e6efbfc753" title="rotates the Ionosphere piercing point time: I time of observations (to update the rotation matrix) IP..." alt="" coords="17,443,144,468"/>
+<area shape="poly" id="edge9_Node000001_Node000046" title=" " alt="" coords="410,455,362,446,305,442,247,442,144,450,144,444,247,437,305,436,363,441,411,450"/>
+<area shape="rect" id="Node000048" href="$coordinates_8cpp.html#a726b77659a6e94017c3acc10bca86a29" title="Transform geodetic postion to ecef." alt="" coords="243,456,324,481"/>
+<area shape="poly" id="edge10_Node000001_Node000048" title=" " alt="" coords="397,471,324,471,324,466,397,466"/>
+<area shape="rect" id="Node000049" href="$tropSinex_8cpp.html#a1faee2ac53f3a75f110a3d3fadd79354" title="Write SITE/ID block." alt="" coords="21,755,140,780"/>
+<area shape="poly" id="edge25_Node000001_Node000049" title=" " alt="" coords="465,496,455,586,436,707,423,767,406,821,387,865,364,893,325,916,306,920,287,921,248,912,203,894,164,870,131,839,105,807,88,782,92,779,109,804,135,836,167,866,205,889,249,906,287,915,305,915,323,911,361,889,383,862,401,819,417,766,431,706,450,586,460,495"/>
+<area shape="rect" id="Node000052" href="$coordinates_8cpp.html#a8473fa1efe21e24084f708ed9e9df38e" title=" " alt="" coords="245,505,322,531"/>
+<area shape="poly" id="edge14_Node000001_Node000052" title=" " alt="" coords="406,488,323,510,322,505,405,482"/>
+<area shape="rect" id="Node000071" href="$tides_8cpp.html#ab9e903f458c0264cff4b22d87c78c477" title="Displacement by solid Earth tide See ref [1] 7.1.1 Note: permanent deformation not removed,..." alt="" coords="24,556,137,581"/>
+<area shape="poly" id="edge16_Node000001_Node000071" title=" " alt="" coords="443,493,407,521,364,544,305,561,244,571,138,574,138,569,244,565,304,556,362,540,405,516,440,489"/>
+<area shape="rect" id="Node000074" href="$tides_8cpp.html#aeae22242d3396386a1b71e573226478d" title="Displacement by solid Earth pole tide See ref [1] 7.1.4." alt="" coords="230,607,337,632"/>
+<area shape="poly" id="edge17_Node000001_Node000074" title=" " alt="" coords="451,494,415,542,391,567,364,590,327,609,325,604,361,585,387,563,411,538,447,491"/>
+<area shape="rect" id="Node000075" href="$tides_8cpp.html#ab44d5c92785ffe1d1628108425405b23" title="Step 1 of solid Earth tide computation: Corrections to be computed in the time domain (solar/lunar ti..." alt="" coords="218,656,349,681"/>
+<area shape="poly" id="edge19_Node000001_Node000075" title=" " alt="" coords="459,496,445,529,425,570,398,610,364,645,342,658,340,654,361,641,394,607,421,567,440,527,454,494"/>
+<area shape="rect" id="Node000076" href="$tropGPT2_8cpp.html#a5653656bdc62fbfcc53b5ea4ac625fa0" title="Troposphere zenith hydrastatic delay and mapping function." alt="" coords="242,705,325,731"/>
+<area shape="poly" id="edge21_Node000001_Node000076" title=" " alt="" coords="463,495,452,539,433,593,405,648,386,674,364,696,346,708,326,715,324,710,344,703,361,692,382,670,400,645,428,591,447,537,458,494"/>
+<area shape="rect" id="Node000084" href="$tropSAAS_8cpp.html#a1d3b00af7bf0b5ded35bb5efd1602f38" title="compute tropospheric delay by standard atmosphere (relative humidity of 0.7 15 degrees of temperature..." alt="" coords="242,755,325,780"/>
+<area shape="poly" id="edge22_Node000001_Node000084" title=" " alt="" coords="465,496,457,548,440,615,410,684,390,717,364,745,346,758,326,765,324,760,344,753,361,741,385,714,406,682,435,613,452,547,460,495"/>
+<area shape="rect" id="Node000087" href="$tropSBAS_8cpp.html#ad65c38914aa6333618890e8ad1aa3256" title=" " alt="" coords="242,804,325,829"/>
+<area shape="poly" id="edge23_Node000001_Node000087" title=" " alt="" coords="467,496,462,557,447,636,434,679,416,721,393,760,364,795,346,807,326,814,324,809,344,802,361,791,389,757,411,718,429,677,441,635,456,556,462,495"/>
+<area shape="rect" id="Node000088" href="$tropVMF3_8cpp.html#a2253022b9954448bf810631603e70454" title="vmf3" alt="" coords="241,853,326,879"/>
+<area shape="poly" id="edge24_Node000001_Node000088" title=" " alt="" coords="468,495,466,564,453,657,440,707,422,757,397,803,365,844,347,856,327,864,325,859,344,852,361,840,392,800,417,754,435,706,448,656,461,563,463,495"/>
+<area shape="poly" id="edge11_Node000048_Node000038" title=" " alt="" coords="239,453,110,396,112,391,242,448"/>
+<area shape="poly" id="edge12_Node000048_Node000046" title=" " alt="" coords="229,468,144,462,144,457,229,462"/>
+<area shape="poly" id="edge13_Node000048_Node000049" title=" " alt="" coords="231,480,206,495,187,531,152,608,90,756,85,754,147,606,182,529,202,491,229,476"/>
+<area shape="poly" id="edge15_Node000052_Node000071" title=" " alt="" coords="232,533,133,559,132,553,230,528"/>
+<area shape="poly" id="edge18_Node000074_Node000004" title=" " alt="" coords="249,602,155,546,106,520,108,515,157,541,252,597"/>
+<area shape="poly" id="edge20_Node000075_Node000071" title=" " alt="" coords="223,654,203,646,145,614,98,584,101,579,147,609,205,641,225,649"/>
+</map>

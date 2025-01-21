@@ -1,0 +1,22 @@
+<map id="SSRPhasBias" name="SSRPhasBias">
+<area shape="rect" id="Node000001" href="$structSSRPhasBias.html" title=" " alt="" coords="515,1483,635,1559"/>
+<area shape="rect" id="Node000002" href="$structSSRBias.html" title=" " alt="" coords="287,1294,375,1410"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,1389,522,1480,519,1485,385,1393"/>
+<area shape="rect" id="Node000003" href="$structSSRMeta.html" title=" " alt="" coords="5,964,168,1160"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,1159,106,1212,117,1236,131,1258,161,1287,197,1309,235,1325,271,1336,269,1341,233,1330,195,1314,158,1291,127,1262,112,1239,101,1213,87,1161"/>
+<area shape="rect" id="Node000004" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="56,5,251,901"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="200,901,219,1074,231,1159,256,1221,286,1278,282,1281,251,1224,225,1161,213,1075,195,902"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,902,95,926,93,948,88,947,89,925,91,902"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="269,1024,493,1100"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="364,1101,348,1141,335,1185,329,1231,328,1278,323,1278,323,1231,329,1183,342,1139,360,1099"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="560,415,624,491"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="576,506,508,690,425,926,395,1025,390,1023,420,924,503,688,571,504"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="518,1024,682,1100"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="594,506,593,697,596,940,600,1024,595,1024,591,940,588,697,589,506"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="599,1184,855,1260"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="608,504,653,689,678,806,700,925,718,1068,727,1183,722,1184,712,1068,695,926,673,807,648,690,603,506"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="566,1102,486,1185,478,1205,476,1223,473,1241,462,1262,429,1296,390,1323,387,1319,425,1292,458,1258,468,1240,470,1222,473,1204,482,1183,562,1098"/>
+<area shape="rect" id="Node000009" href="$structSSRPhase.html" title=" " alt="" coords="697,1284,863,1420"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="699,1422,634,1474,631,1470,695,1418"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="614,1262,590,1286,578,1306,570,1329,561,1376,561,1424,566,1466,560,1467,556,1424,556,1376,565,1327,574,1304,586,1282,610,1258"/>
+</map>

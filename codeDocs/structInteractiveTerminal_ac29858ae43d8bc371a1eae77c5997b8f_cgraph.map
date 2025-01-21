@@ -1,0 +1,8 @@
+<map id="InteractiveTerminal::~InteractiveTerminal" name="InteractiveTerminal::~InteractiveTerminal">
+<area shape="rect" id="Node000001" href="$structInteractiveTerminal.html#ac29858ae43d8bc371a1eae77c5997b8f" title=" " alt="" coords="5,49,172,89"/>
+<area shape="rect" id="Node000002" href="$structInteractiveTerminal.html#a18ff6a2c6e3b8a5a0a546c494c9cfcff" title=" " alt="" coords="220,5,368,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,49,206,41,207,47,173,54"/>
+<area shape="rect" id="Node000003" href="$structInteractiveTerminal.html#acaff8ba8e5700113836f7d680285996d" title=" " alt="" coords="220,93,368,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,85,207,92,206,97,172,90"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="255,94,253,84,259,75,273,69,294,67,318,70,331,77,329,82,316,75,294,72,274,74,263,79,258,85,260,92"/>
+</map>

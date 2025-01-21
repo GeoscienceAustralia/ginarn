@@ -1,0 +1,8 @@
+<map id="MongoStatesOptions" name="MongoStatesOptions">
+<area shape="rect" id="Node000001" href="$structMongoStatesOptions.html" title=" " alt="" coords="5,1103,176,1259"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,127,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,82,84,144,74,396,72,592,84,1040,86,1086,81,1086,79,1040,67,592,69,396,79,144,84,81"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="172,144,367,1040"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="120,80,156,143,168,174,163,176,151,145,115,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,985,156,1041,137,1089,132,1087,151,1039,169,983"/>
+</map>

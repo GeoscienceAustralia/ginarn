@@ -1,0 +1,17 @@
+<map id="readionexdcb" name="readionexdcb">
+<area shape="rect" id="Node000001" href="$ionex_8cpp.html#ad8d9b28daf532c13a9a7e71912cae79f" title="read ionex dcb aux data" alt="" coords="5,104,116,129"/>
+<area shape="rect" id="Node000002" href="$biasSINEXread_8cpp.html#a4bffe1ef2eba2828588d627449699cbe" title="Convert observation code string to enum code." alt="" coords="188,5,267,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,102,163,52,200,35,202,39,165,56,90,106"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="68,102,107,65,163,28,174,22,177,27,165,32,110,69,71,106"/>
+<area shape="rect" id="Node000003" href="$gTime_8cpp.html#aca21817ee2127e89013ae4252c5f9abe" title=" " alt="" coords="189,55,265,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="115,106,191,82,193,88,117,111"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="83,101,175,72,177,77,84,106"/>
+<area shape="rect" id="Node000004" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="184,104,271,129"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="116,123,170,123,170,128,116,128"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="116,105,170,105,170,111,116,111"/>
+<area shape="rect" id="Node000007" href="$biases_8cpp.html#ad7402956db3836fc8dbe7b8b51d04c69" title="Push forward and reverse bias entry into biasMaps." alt="" coords="170,153,285,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="84,127,158,152,156,157,83,132"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="117,122,193,146,191,151,115,127"/>
+<area shape="rect" id="Node000006" href="$structSatSys.html#abfd7e43b0d57c2718d05ca595ee360dd" title="Returns the character used as a prefix for this system." alt="" coords="164,203,291,228"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="79,127,117,157,165,188,179,195,177,199,163,192,114,161,76,132"/>
+</map>

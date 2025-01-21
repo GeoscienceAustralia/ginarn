@@ -1,0 +1,18 @@
+<map id="decodeEph" name="decodeEph">
+<area shape="rect" id="Node000001" href="$rinex_8cpp.html#a979e29d6c67b175b1c72c8a619e2c6fa" title="Decode ephemeris." alt="" coords="5,42,99,68"/>
+<area shape="rect" id="Node000002" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="349,92,436,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,45,142,35,194,28,249,28,302,39,336,58,364,80,361,85,333,62,300,44,248,33,194,34,143,41,99,50"/>
+<area shape="poly" id="edge10_Node000001_Node000002" title=" " alt="" coords="70,40,112,23,170,8,236,3,270,7,302,15,326,27,348,43,381,79,377,82,345,47,324,32,300,20,269,12,236,9,171,14,114,28,72,45"/>
+<area shape="rect" id="Node000005" href="$common_8cpp.html#a96d3e41867e71358683d0395b85972af" title="URA value (m) to URA index." alt="" coords="183,42,265,68"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="99,61,169,61,169,66,99,66"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="99,44,169,44,169,49,99,50"/>
+<area shape="rect" id="Node000006" href="$biases_8cpp.html#a4189b53abc056c39f46bd56d0032b546" title="Convert GPS/QZS TGD into OSBs &amp; DSB." alt="" coords="147,92,301,117"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="98,65,167,85,165,90,96,70"/>
+<area shape="rect" id="Node000009" href="$common_8cpp.html#a5455547b54ca04e3f6629ddd867b197d" title="Galileo SISA value (m) to SISA index." alt="" coords="181,141,267,166"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="69,66,103,96,148,126,169,136,167,140,145,131,100,100,65,70"/>
+<area shape="rect" id="Node000010" href="$biases_8cpp.html#a063ba8fe35a80404ea27345b60592828" title="Convert GAL BGDs into OSBs &amp; DSB." alt="" coords="147,190,301,216"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="62,66,94,119,119,150,148,176,159,182,157,187,145,180,115,153,90,122,57,69"/>
+<area shape="poly" id="edge4_Node000006_Node000002" title=" " alt="" coords="301,111,336,110,336,116,301,116"/>
+<area shape="poly" id="edge5_Node000006_Node000002" title=" " alt="" coords="301,93,336,93,336,99,301,98"/>
+<area shape="poly" id="edge8_Node000010_Node000002" title=" " alt="" coords="271,188,300,175,336,151,367,125,371,129,340,155,303,180,273,193"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="addRejectDetails" name="addRejectDetails">
+<area shape="rect" id="Node000001" href="$ppp_8cpp.html#a96cf81dda8cab8a4eff5984e5092ffd3" title=" " alt="" coords="228,55,361,80"/>
+<area shape="rect" id="Node000002" href="$ppp__callbacks_8cpp.html#ace5050e41423910c1fae826aa052887d" title="Deweight worst measurement." alt="" coords="34,5,151,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,54,145,33,146,28,229,49"/>
+<area shape="rect" id="Node000007" href="$ppp__callbacks_8cpp.html#a4b6afed78d56e5e568d23c8946500020" title="Deweight measurement and its relatives." alt="" coords="11,55,174,80"/>
+<area shape="poly" id="edge2_Node000001_Node000007" title=" " alt="" coords="214,70,174,70,174,65,214,65"/>
+<area shape="rect" id="Node000019" href="$ppp_8cpp.html#a075655f5235940732703f2e6ca41421a" title="Remove ambiguity states from filter when they deemed old or bad This effectively reinitialises them o..." alt="" coords="5,104,180,129"/>
+<area shape="poly" id="edge3_Node000001_Node000019" title=" " alt="" coords="229,86,146,107,145,101,228,81"/>
+</map>

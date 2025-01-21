@@ -1,0 +1,9 @@
+<map id="ObsStream" name="ObsStream">
+<area shape="rect" id="Node000001" href="$structObsStream.html" title=" " alt="" coords="101,409,235,585"/>
+<area shape="rect" id="Node000002" href="$structStreamParser.html" title=" " alt="" coords="78,204,258,360"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,374,171,409,165,409,165,374"/>
+<area shape="rect" id="Node000003" href="$structStream.html" title=" " alt="" coords="5,5,163,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,141,133,188,128,190,109,143"/>
+<area shape="rect" id="Node000005" href="$structParser.html" title=" " alt="" coords="187,15,317,131"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="231,133,208,190,203,188,226,130"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="incrementSatelliteErrors" name="incrementSatelliteErrors">
+<area shape="rect" id="Node000001" href="$ppp__callbacks_8cpp.html#afe7a5d51db4ed572a47f6754a4deb74c" title="Count all errors on satellite." alt="" coords="5,5,185,31"/>
+<area shape="rect" id="Node000002" href="$ppp__callbacks_8cpp.html#ab625ed0e2e30e2ebd04a3d5947093776" title="Immediately executed reaction to orbital state errors." alt="" coords="233,5,404,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,15,220,15,220,21,186,21"/>
+</map>

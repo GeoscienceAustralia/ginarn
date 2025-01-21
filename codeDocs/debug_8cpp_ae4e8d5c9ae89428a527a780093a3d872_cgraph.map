@@ -1,0 +1,35 @@
+<map id="accel" name="accel">
+<area shape="rect" id="Node000001" href="$debug_8cpp.html#ae4e8d5c9ae89428a527a780093a3d872" title=" " alt="" coords="5,288,61,314"/>
+<area shape="rect" id="Node000002" href="$structKFState.html#a8f43fca242e78201e48996ebbb4fd69f" title="Tries to add a state to the filter object." alt="" coords="364,220,519,246"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,288,32,243,41,181,50,148,64,117,83,88,108,64,135,46,160,35,185,28,210,27,235,30,261,38,317,64,358,94,390,132,414,172,430,206,426,209,409,175,385,135,354,98,315,69,259,43,234,36,210,32,186,34,162,40,137,51,111,68,87,91,69,119,55,150,46,182,37,243,36,288"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="31,288,31,239,38,170,47,133,61,98,81,66,108,40,135,22,160,11,185,4,210,3,235,6,261,14,317,40,341,55,362,74,396,119,421,166,436,206,431,208,416,169,392,122,358,78,338,59,315,45,259,19,234,12,210,8,186,10,162,16,137,27,111,44,85,70,66,101,52,135,44,171,36,239,37,288"/>
+<area shape="rect" id="Node000003" href="$structKFState.html#a043f0e3fd99610dfad8e650a1514c395" title="Remove a state from a kalman filter object." alt="" coords="131,67,295,92"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="33,288,38,251,50,201,72,147,88,123,108,102,116,95,120,99,111,106,92,126,76,150,55,202,43,252,38,288"/>
+<area shape="rect" id="Node000004" href="$structKFState.html#a7f8e4b9291361c063cef8d9178f07707" title="Add process noise and dynamics to filter object according to time gap." alt="" coords="125,116,301,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="37,287,59,227,80,193,108,163,130,150,154,142,156,147,132,155,111,167,84,196,64,230,42,289"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="34,287,41,256,54,216,76,174,108,139,111,136,114,141,111,143,81,177,59,218,46,258,39,288"/>
+<area shape="rect" id="Node000014" href="$structKFState.html#a0c84e911a5ea760fe728baec661e33f0" title="Output keys and states in human readable format." alt="" coords="131,166,294,191"/>
+<area shape="poly" id="edge4_Node000001_Node000014" title=" " alt="" coords="43,287,69,249,87,229,108,212,135,199,162,191,164,196,136,204,111,216,90,233,73,253,47,290"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="35,287,61,238,82,210,108,188,118,182,120,187,111,192,86,214,65,240,40,289"/>
+<area shape="rect" id="Node000016" href="$structKFState.html#aeca6e3874ad0c94607152d244016582f" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="135,239,290,264"/>
+<area shape="poly" id="edge6_Node000001_Node000016" title=" " alt="" coords="61,299,109,285,179,266,180,271,110,290,62,304"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="46,285,74,272,109,261,121,258,122,263,110,266,76,277,48,290"/>
+<area shape="rect" id="Node000018" href="$structKFMeasEntry.html#a358f854f4544c59fd129e46a1baf0e34" title="Adds a design matrix entry for this measurement." alt="" coords="109,288,316,314"/>
+<area shape="poly" id="edge8_Node000001_Node000018" title=" " alt="" coords="62,305,96,307,96,312,61,310"/>
+<area shape="poly" id="edge9_Node000001_Node000018" title=" " alt="" coords="61,292,96,290,96,295,62,297"/>
+<area shape="rect" id="Node000019" href="$structKFMeasEntry.html#ac15ff59e0acb09be8ed75ccee2411dd2" title="Adds the innovation value for this measurement." alt="" coords="127,338,298,363"/>
+<area shape="poly" id="edge10_Node000001_Node000019" title=" " alt="" coords="48,311,77,324,110,334,115,336,114,341,109,339,75,329,46,316"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="62,297,110,310,181,330,180,336,109,315,61,302"/>
+<area shape="rect" id="Node000020" href="$structKFMeasEntry.html#a58172784aeb65ed62d2b21ee570f4980" title="Adds the measurement noise entry for this measurement." alt="" coords="127,387,299,412"/>
+<area shape="poly" id="edge11_Node000001_Node000020" title=" " alt="" coords="41,312,68,349,88,368,111,384,115,386,113,391,108,388,85,372,64,353,37,315"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="54,312,79,337,111,360,140,372,171,381,169,386,139,378,108,365,76,341,51,316"/>
+<area shape="rect" id="Node000021" href="$structKFState.html#af0d847a26215ec8ba638677576d8cae9" title="Adds dynamics to a filter state by inserting off&#45;diagonal, time dependent elements to transition matr..." alt="" coords="123,436,303,462"/>
+<area shape="poly" id="edge12_Node000001_Node000021" title=" " alt="" coords="39,313,48,339,62,372,83,406,111,434,112,434,109,439,108,438,79,409,58,375,43,341,34,315"/>
+<area shape="poly" id="edge15_Node000001_Node000021" title=" " alt="" coords="44,312,68,360,87,387,111,409,136,422,162,431,161,436,133,427,108,414,83,390,64,363,39,315"/>
+<area shape="rect" id="Node000022" href="$structKFState.html#a0d12c57e70876543084c182a660bbbd3" title="Kalman filter operation." alt="" coords="133,486,293,511"/>
+<area shape="poly" id="edge17_Node000001_Node000022" title=" " alt="" coords="38,313,44,348,56,394,78,443,93,464,111,483,122,490,119,495,108,487,89,468,73,445,51,396,39,349,33,314"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="40,313,47,343,60,383,81,424,111,459,133,472,157,480,155,485,130,477,108,463,77,427,55,385,42,345,35,314"/>
+<area shape="poly" id="edge7_Node000016_Node000016" title=" " alt="" coords="183,240,177,231,180,221,192,214,213,212,237,216,248,225,244,229,235,221,213,218,194,220,184,224,182,230,187,237"/>
+<area shape="poly" id="edge13_Node000021_Node000002" title=" " alt="" coords="301,441,314,433,357,394,390,346,415,298,430,258,435,260,420,300,395,349,361,397,318,438,304,446"/>
+<area shape="poly" id="edge14_Node000021_Node000002" title=" " alt="" coords="249,434,282,425,315,409,353,374,384,333,408,292,425,257,430,259,413,294,388,336,357,378,317,414,284,430,250,439"/>
+</map>

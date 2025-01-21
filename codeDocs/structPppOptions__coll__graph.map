@@ -1,0 +1,32 @@
+<map id="PppOptions" name="PppOptions">
+<area shape="rect" id="Node000001" href="$structPppOptions.html" title="Options associated with the ppp processing mode of operation." alt="" coords="1120,684,1332,960"/>
+<area shape="rect" id="Node000002" href="$structFilterOptions.html" title=" " alt="" coords="445,451,625,607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,571,1121,774,1119,778,637,576"/>
+<area shape="rect" id="Node000003" href="$structRtsOptions.html" title=" " alt="" coords="639,154,810,290"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="706,304,682,367,648,428,628,454,624,451,644,425,677,365,701,302"/>
+<area shape="rect" id="Node000005" href="$structPrefitOptions.html" title=" " alt="" coords="5,144,207,300"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="167,299,227,364,262,396,298,424,363,462,431,491,429,496,361,467,295,429,258,400,223,368,163,302"/>
+<area shape="rect" id="Node000006" href="$structPostfitOptions.html" title=" " alt="" coords="231,154,432,290"/>
+<area shape="poly" id="edge4_Node000002_Node000006" title=" " alt="" coords="365,289,402,356,446,425,454,436,449,439,441,428,397,359,361,292"/>
+<area shape="rect" id="Node000007" href="$structChiSquareOptions.html" title=" " alt="" coords="456,164,615,280"/>
+<area shape="poly" id="edge5_Node000002_Node000007" title=" " alt="" coords="538,280,538,434,533,434,533,280"/>
+<area shape="rect" id="Node000008" href="$structKalmanModel.html" title="Options associated with kalman filter states." alt="" coords="1088,491,1225,567"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="1165,567,1182,659,1184,667,1179,669,1177,661,1159,568"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="835,184,985,260"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="911,260,913,298,920,341,934,385,956,425,981,451,1010,472,1073,502,1071,507,1007,476,977,455,952,428,929,387,915,342,908,298,906,260"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1120,5,1196,81"/>
+<area shape="poly" id="edge8_Node000009_Node000010" title=" " alt="" coords="1108,65,1067,84,1026,108,980,146,942,186,938,182,977,142,1023,103,1065,79,1106,60"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1009,184,1144,260"/>
+<area shape="poly" id="edge10_Node000011_Node000010" title=" " alt="" coords="1123,94,1116,107,1100,146,1088,184,1083,183,1095,144,1112,104,1119,91"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1169,184,1313,260"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="1183,93,1226,183,1221,185,1179,95"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1464,337,1588,413"/>
+<area shape="poly" id="edge16_Node000016_Node000010" title=" " alt="" coords="1210,50,1286,64,1373,85,1450,111,1480,126,1500,142,1515,165,1526,189,1538,242,1539,294,1535,338,1530,337,1534,294,1533,243,1521,191,1511,167,1496,146,1477,130,1448,116,1371,90,1285,70,1209,55"/>
+<area shape="poly" id="edge9_Node000008_Node000011" title=" " alt="" coords="1072,260,1065,338,1068,383,1078,426,1091,452,1108,477,1104,480,1086,455,1073,428,1062,384,1060,338,1066,260"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="1242,260,1234,338,1226,383,1214,428,1191,477,1186,475,1209,426,1221,382,1229,338,1237,260"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1337,184,1485,260"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="1385,262,1365,292,1347,325,1339,354,1338,379,1335,403,1319,429,1301,441,1283,444,1266,446,1246,453,1206,482,1203,477,1243,448,1264,441,1283,439,1299,436,1315,425,1330,401,1333,378,1334,353,1342,323,1360,289,1380,259"/>
+<area shape="rect" id="Node000015" href="$structIonosphericOptions.html" title="Options associated with the ionospheric modelling processing mode of operation." alt="" coords="1391,461,1578,597"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1427,598,1345,691,1341,687,1423,595"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1484,416,1459,429,1433,436,1409,438,1365,432,1346,430,1326,431,1307,438,1288,453,1268,476,1258,499,1254,522,1254,545,1260,597,1261,627,1258,660,1257,669,1251,668,1253,660,1256,627,1255,598,1249,546,1248,521,1253,497,1264,473,1284,449,1305,433,1325,425,1346,424,1366,427,1409,432,1432,431,1457,424,1481,411"/>
+</map>

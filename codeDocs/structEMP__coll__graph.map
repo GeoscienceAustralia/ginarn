@@ -1,0 +1,15 @@
+<map id="EMP" name="EMP">
+<area shape="rect" id="Node000001" href="$structEMP.html" title=" " alt="" coords="202,1425,333,1581"/>
+<area shape="rect" id="Node000002" href="$structKFKey.html" title="Keys used to interface with Kalman filter objects." alt="" coords="189,1147,345,1363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,1363,270,1409,265,1409,265,1363"/>
+<area shape="rect" id="Node000003" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="5,438,161,834"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,834,97,905,111,978,130,1052,156,1122,181,1163,177,1166,152,1124,125,1053,105,980,92,905,84,834"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="359,5,431,81"/>
+<area shape="poly" id="edge3_Node000002_Node000006" title=" " alt="" coords="360,64,325,85,287,113,251,148,224,189,210,226,199,271,185,376,181,499,183,629,191,761,202,886,225,1084,233,1130,228,1131,219,1084,196,886,186,761,178,630,175,499,180,376,194,270,205,225,220,187,247,145,284,109,322,81,358,60"/>
+<area shape="rect" id="Node000007" href="$structReceiver.html" title="Object to maintain receiver station data." alt="" coords="311,488,479,784"/>
+<area shape="poly" id="edge5_Node000007_Node000006" title=" " alt="" coords="398,82,398,472,393,472,393,82"/>
+<area shape="rect" id="Node000014" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="503,188,698,1084"/>
+<area shape="poly" id="edge7_Node000014_Node000006" title=" " alt="" coords="433,48,487,66,514,82,536,104,558,137,576,172,571,174,553,139,532,107,511,86,485,71,431,53"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="367,785,296,1131,290,1129,362,784"/>
+<area shape="poly" id="edge6_Node000002_Node000014" title=" " alt="" coords="505,1067,494,1086,465,1122,432,1154,361,1206,358,1202,429,1150,461,1118,489,1082,501,1064"/>
+</map>

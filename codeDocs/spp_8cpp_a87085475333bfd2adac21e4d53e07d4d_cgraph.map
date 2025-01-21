@@ -1,0 +1,8 @@
+<map id="raim" name="raim">
+<area shape="rect" id="Node000001" href="$spp_8cpp.html#a87085475333bfd2adac21e4d53e07d4d" title="Receiver autonomous integrity monitoring (RAIM) failure detection and exclution." alt="" coords="5,55,57,80"/>
+<area shape="rect" id="Node000002" href="$spp_8cpp.html#ad923112e4e6dfdfc8b050b68851fe1d0" title="Estimate receiver position and biases using code measurements." alt="" coords="116,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,54,104,34,106,39,59,59"/>
+<area shape="rect" id="Node000028" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="105,55,192,80"/>
+<area shape="poly" id="edge2_Node000001_Node000028" title=" " alt="" coords="58,72,92,74,91,79,57,78"/>
+<area shape="poly" id="edge3_Node000001_Node000028" title=" " alt="" coords="57,57,91,56,92,61,58,62"/>
+</map>

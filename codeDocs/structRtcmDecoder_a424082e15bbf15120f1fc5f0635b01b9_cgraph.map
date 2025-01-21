@@ -1,0 +1,51 @@
+<map id="RtcmDecoder::decodeEphemeris" name="RtcmDecoder::decodeEphemeris">
+<area shape="rect" id="Node000001" href="$structRtcmDecoder.html#a424082e15bbf15120f1fc5f0635b01b9" title="decode RTCM navigation messages" alt="" coords="5,328,240,353"/>
+<area shape="rect" id="Node000002" href="$rtcmDecoder_8cpp.html#aaa6463f592ed6478626814466d3d02a5" title="increasingly extract unsigned bits from byte data" alt="" coords="344,5,431,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,327,143,276,174,201,196,160,221,121,251,84,286,52,309,39,334,31,336,36,311,44,290,56,255,87,226,124,200,163,179,203,148,277,131,329"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="124,327,138,271,169,190,191,145,218,102,249,62,286,28,307,16,329,9,331,14,309,21,290,32,253,66,222,105,196,148,174,192,143,273,129,328"/>
+<area shape="rect" id="Node000004" href="$structRtcmDecoder.html#a9a64ac779c6f793b094aeaab8c917dd1" title="adjust GPS week number according to RTCM time" alt="" coords="288,55,487,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,326,148,283,182,221,227,157,255,127,287,101,311,88,337,80,339,86,313,93,289,106,259,131,232,160,186,224,153,285,133,329"/>
+<area shape="poly" id="edge18_Node000001_Node000004" title=" " alt="" coords="124,327,141,281,172,217,217,147,244,114,276,85,279,89,248,118,221,150,176,219,146,283,129,329"/>
+<area shape="rect" id="Node000005" href="$structRtcmDecoder.html#af4dcc94b23423696a4e8025d8235a1b1" title=" " alt="" coords="535,216,716,241"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="163,326,220,299,287,275,347,262,407,252,521,239,521,245,408,257,348,267,289,281,222,304,165,330"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="134,326,197,287,241,267,287,251,347,238,408,228,521,219,521,224,408,233,348,243,289,257,243,272,200,292,136,330"/>
+<area shape="rect" id="Node000008" href="$common_8cpp.html#a47b796248ca1aabdfc761d61bb878142" title="URA index to URA value (m) GLOBAL POSITIONING SYSTEM STANDARD POSITIONING SERVICE SIGNAL SPECIFICATIO..." alt="" coords="346,104,429,129"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="132,326,189,243,234,193,287,150,313,138,341,130,343,135,315,143,289,155,237,197,193,246,136,329"/>
+<area shape="poly" id="edge17_Node000001_Node000008" title=" " alt="" coords="126,326,146,286,181,232,228,175,256,149,287,126,308,116,331,109,333,114,310,121,289,131,260,153,232,178,185,235,151,289,131,329"/>
+<area shape="rect" id="Node000009" href="$rtcmDecoder_8cpp.html#a8f81fd7eaa74dfc180469d0accafb183" title="increasingly extract signed bits from byte data" alt="" coords="344,153,431,179"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="140,326,202,270,242,237,287,208,320,192,353,181,355,186,322,197,289,212,246,241,205,274,144,330"/>
+<area shape="poly" id="edge7_Node000001_Node000009" title=" " alt="" coords="129,326,152,297,189,258,235,218,287,184,330,166,332,171,289,188,239,223,193,262,156,300,133,329"/>
+<area shape="rect" id="Node000011" href="$biases_8cpp.html#a4189b53abc056c39f46bd56d0032b546" title="Convert GPS/QZS TGD into OSBs &amp; DSB." alt="" coords="311,279,464,304"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="238,325,338,305,339,310,239,331"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="158,325,297,297,298,302,159,331"/>
+<area shape="rect" id="Node000012" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="582,525,669,551"/>
+<area shape="poly" id="edge25_Node000001_Node000012" title=" " alt="" coords="130,353,147,398,179,461,201,493,227,524,256,551,289,572,329,587,371,594,413,596,456,592,534,576,593,554,595,559,535,581,457,598,414,601,370,600,327,592,287,576,253,555,223,527,197,496,175,463,142,400,125,355"/>
+<area shape="poly" id="edge30_Node000001_Node000012" title=" " alt="" coords="133,352,153,393,186,449,231,505,259,528,289,548,324,561,360,569,398,572,436,571,507,562,568,548,569,553,508,567,436,577,398,578,360,574,322,566,287,552,256,533,227,508,182,452,149,396,129,355"/>
+<area shape="rect" id="Node000017" href="$rtcmDecoder_8cpp.html#a33beca135638237503bffc4badf8fb94" title="increasingly extract sign&#45;magnitude bits applied in GLO nav messages from byte data" alt="" coords="344,328,431,353"/>
+<area shape="poly" id="edge12_Node000001_Node000017" title=" " alt="" coords="240,347,330,346,330,351,240,352"/>
+<area shape="poly" id="edge13_Node000001_Node000017" title=" " alt="" coords="240,329,330,330,330,336,240,334"/>
+<area shape="rect" id="Node000019" href="$structRtcmDecoder.html#a9793312f3999d7f59d79ca5cbba95797" title="adjust BDT week number according to RTCM time" alt="" coords="289,377,485,403"/>
+<area shape="poly" id="edge15_Node000001_Node000019" title=" " alt="" coords="192,351,306,372,305,377,191,356"/>
+<area shape="rect" id="Node000020" href="$structRtcmDecoder.html#a3f27b2fcee11a1266301ca9abec7d70d" title="adjust GST week number according to RTCM time" alt="" coords="289,427,485,452"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="150,351,212,381,289,411,318,420,316,426,287,417,210,385,148,356"/>
+<area shape="rect" id="Node000021" href="$common_8cpp.html#a3e64e6b27352f5d683cfbfd28e9bc69a" title="Galileo SISA index to SISA value (m) EUROPEAN GNSS (GALILEO) OPEN SERVICE SIGNAL&#45;IN&#45;SPACE INTERFACE C..." alt="" coords="344,476,431,501"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="139,351,201,404,243,435,289,461,331,476,330,481,287,466,240,439,198,409,136,356"/>
+<area shape="rect" id="Node000022" href="$biases_8cpp.html#a063ba8fe35a80404ea27345b60592828" title="Convert GAL BGDs into OSBs &amp; DSB." alt="" coords="310,525,465,551"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="135,352,158,385,193,428,238,472,289,510,305,518,302,523,287,515,234,476,189,431,154,388,130,355"/>
+<area shape="rect" id="Node000023" href="$structGTime.html#a98fdbaaec5a132a7e694f28b4f1907cb" title=" " alt="" coords="560,693,691,719"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="130,353,148,400,181,468,228,540,257,574,290,603,352,641,419,670,486,690,547,701,546,707,485,695,417,675,349,646,286,607,254,577,224,543,176,470,143,403,125,355"/>
+<area shape="poly" id="edge31_Node000001_Node000023" title=" " alt="" coords="134,352,154,396,187,456,233,522,260,552,290,579,323,601,359,621,434,652,507,673,569,688,568,693,506,679,432,657,356,626,320,606,286,583,256,556,229,525,183,459,149,398,129,355"/>
+<area shape="rect" id="Node000024" href="$structRtcmTrace.html#a7988263389150711e951a4df5f1dcdd1" title="Write decoded/encoded GPS/GAL/BDS/QZS ephemeris messages to a json file." alt="" coords="295,725,479,751"/>
+<area shape="poly" id="edge27_Node000001_Node000024" title=" " alt="" coords="128,353,140,416,167,511,188,564,215,617,249,668,290,714,286,718,245,672,211,620,184,566,162,513,134,417,123,354"/>
+<area shape="poly" id="edge32_Node000001_Node000024" title=" " alt="" coords="129,353,143,414,172,505,193,555,220,605,252,651,290,692,316,709,346,719,344,724,314,713,286,696,248,655,215,607,189,557,167,507,138,415,124,354"/>
+<area shape="rect" id="Node000026" href="$structRtcmTrace.html#ad992e657cb98f1cd8eb87eaf2d11f912" title="Write unknown message to a json file." alt="" coords="291,775,483,800"/>
+<area shape="poly" id="edge33_Node000001_Node000026" title=" " alt="" coords="127,353,136,425,146,477,161,535,182,597,210,657,245,713,290,761,295,766,292,770,286,765,241,716,205,660,177,599,156,537,141,478,131,426,122,354"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="462,78,488,89,525,115,559,145,609,203,605,206,555,149,522,119,485,94,459,83"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="425,301,457,310,488,325,512,345,534,369,570,420,597,470,615,511,610,513,592,472,566,423,530,372,509,349,485,330,455,315,424,307"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="465,289,488,301,515,324,538,350,576,408,604,465,620,511,615,513,599,467,572,411,534,353,511,328,485,306,463,294"/>
+<area shape="poly" id="edge16_Node000019_Node000005" title=" " alt="" coords="456,375,485,362,522,337,555,307,605,251,609,254,559,311,525,341,488,367,458,380"/>
+<area shape="poly" id="edge21_Node000020_Node000005" title=" " alt="" coords="460,424,485,412,528,375,563,332,591,289,610,253,615,255,595,291,567,335,531,379,488,416,462,429"/>
+<area shape="poly" id="edge24_Node000022_Node000012" title=" " alt="" coords="465,535,568,535,568,541,465,541"/>
+<area shape="poly" id="edge28_Node000024_Node000023" title=" " alt="" coords="479,732,569,719,569,724,480,737"/>
+<area shape="poly" id="edge29_Node000024_Node000023" title=" " alt="" coords="430,723,546,705,547,711,431,728"/>
+</map>

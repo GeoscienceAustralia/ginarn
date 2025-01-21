@@ -1,0 +1,18 @@
+<map id="RtcmEncoder" name="RtcmEncoder">
+<area shape="rect" id="Node000001" href="$structRtcmEncoder.html" title=" " alt="" coords="258,577,511,893"/>
+<area shape="rect" id="Node000002" href="$structRtcmTrace.html" title=" " alt="" coords="5,159,188,515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,506,203,513,260,588,256,591,199,516,194,509"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,133,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,81,99,142,94,142,94,81"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="213,299,365,375"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,374,345,561,340,562,295,376"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="251,5,327,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,95,291,298,286,298,286,95"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="389,299,585,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="480,376,432,562,427,561,475,374"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="565,5,629,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="556,76,530,107,509,156,497,208,491,257,489,299,484,298,485,257,491,207,504,154,525,104,552,73"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="610,299,802,375"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="641,74,666,104,687,154,700,207,707,257,709,299,704,299,701,257,695,208,682,156,661,107,637,77"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="690,376,643,461,613,509,579,555,525,614,521,611,575,552,608,506,639,458,685,374"/>
+</map>

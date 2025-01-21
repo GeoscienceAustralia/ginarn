@@ -1,0 +1,8 @@
+<map id="readRnxClk" name="readRnxClk">
+<area shape="rect" id="Node000001" href="$rinex_8cpp.html#a31dd08ba5cac291e98978728ec29f60c" title="Read rinex clock." alt="" coords="5,55,103,80"/>
+<area shape="rect" id="Node000002" href="$gTime_8cpp.html#a0080e8d8e9f572cc3a823740536abce4" title=" " alt="" coords="151,5,228,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,52,140,33,142,38,90,57"/>
+<area shape="rect" id="Node000006" href="$gTime_8cpp.html#aca21817ee2127e89013ae4252c5f9abe" title=" " alt="" coords="151,55,227,80"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="103,73,138,73,138,79,103,79"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="103,56,138,56,138,61,103,61"/>
+</map>

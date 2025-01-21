@@ -1,0 +1,9 @@
+<map id="PacketStatistics::nonFrameByteFound" name="PacketStatistics::nonFrameByteFound">
+<area shape="rect" id="Node000001" href="$structPacketStatistics.html#a080db5e73adbd4447002c7b54f691f03" title=" " alt="" coords="209,47,407,87"/>
+<area shape="rect" id="Node000002" href="$structCustomParser.html#a1b307af55ea236fb3c0c248978844e30" title=" " alt="" coords="5,5,161,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,47,141,33,142,28,204,42"/>
+<area shape="rect" id="Node000003" href="$structRtcmParser.html#a6138840942a03f0a06ecb288ab412716" title=" " alt="" coords="13,55,153,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,70,154,70,154,65,196,65"/>
+<area shape="rect" id="Node000004" href="$structUbxParser.html#aeb578c76a4db0173d21f6a7de471c06b" title=" " alt="" coords="17,104,149,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,93,142,107,141,101,203,88"/>
+</map>

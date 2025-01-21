@@ -1,0 +1,8 @@
+<map id="InteractiveMode" name="InteractiveMode">
+<area shape="rect" id="Node000001" href="$structInteractiveMode.html" title=" " alt="" coords="105,1117,247,1213"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,144,200,1040"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,1040,153,1093,155,1101,150,1102,148,1094,137,1041"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,212,81"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="215,76,232,104,257,198,274,317,284,453,287,598,283,744,272,880,255,1000,232,1094,228,1104,223,1102,227,1093,250,999,267,880,278,743,282,598,279,453,269,317,252,199,227,106,210,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,83,140,106,133,129,128,127,135,104,146,81"/>
+</map>

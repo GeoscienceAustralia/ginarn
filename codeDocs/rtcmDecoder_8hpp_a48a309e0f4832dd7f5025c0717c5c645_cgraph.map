@@ -1,0 +1,6 @@
+<map id="getbitg" name="getbitg">
+<area shape="rect" id="Node000001" href="$rtcmDecoder_8cpp.html#a48a309e0f4832dd7f5025c0717c5c645" title="extract sign&#45;magnitude bits applied in GLO nav messages from byte data" alt="" coords="5,5,73,31"/>
+<area shape="rect" id="Node000002" href="$rtcmDecoder_8cpp.html#a85a03123ae20efc3b06434f616140943" title="extract unsigned bits from byte data" alt="" coords="121,5,189,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,24,108,24,108,30,73,29"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="73,7,108,6,108,12,73,12"/>
+</map>

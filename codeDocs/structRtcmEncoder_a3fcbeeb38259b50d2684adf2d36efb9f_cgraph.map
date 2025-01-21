@@ -1,0 +1,11 @@
+<map id="RtcmEncoder::encodeEphemeris" name="RtcmEncoder::encodeEphemeris">
+<area shape="rect" id="Node000001" href="$structRtcmEncoder.html#a3fcbeeb38259b50d2684adf2d36efb9f" title="encode GPS/GAL/BDS/QZS ephemeris messages" alt="" coords="5,55,237,80"/>
+<area shape="rect" id="Node000002" href="$rtcmEncoder_8cpp.html#af0d5eab5e18729b5d6b67194e94979a0" title="increasingly set unsigned bits to byte data" alt="" coords="334,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,52,330,31,331,37,234,57"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="155,52,234,34,320,19,320,24,235,39,156,57"/>
+<area shape="rect" id="Node000004" href="$rtcmEncoder_8cpp.html#a831abe42902c0ceadba66974c93a637b" title="increasingly set signed bits to byte data" alt="" coords="335,55,420,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,74,321,72,321,78,238,79"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="238,56,321,57,321,62,237,61"/>
+<area shape="rect" id="Node000006" href="$structRtcmTrace.html#a7988263389150711e951a4df5f1dcdd1" title="Write decoded/encoded GPS/GAL/BDS/QZS ephemeris messages to a json file." alt="" coords="285,104,469,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,77,298,99,297,104,187,83"/>
+</map>

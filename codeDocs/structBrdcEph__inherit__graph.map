@@ -1,0 +1,9 @@
+<map id="BrdcEph" name="BrdcEph">
+<area shape="rect" id="Node000001" href="$structBrdcEph.html" title=" " alt="" coords="184,5,272,81"/>
+<area shape="rect" id="Node000002" href="$structEph.html" title="GPS/QZS/GAL/BDS broadcast ephemeris." alt="" coords="5,129,147,945"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,94,161,131,149,157,144,155,156,128,180,91"/>
+<area shape="rect" id="Node000003" href="$structGeph.html" title="GLONASS broadcast ephemeris." alt="" coords="171,269,285,805"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,95,231,269,225,269,225,95"/>
+<area shape="rect" id="Node000004" href="$structSeph.html" title="SBAS ephemeris." alt="" coords="310,369,389,705"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,91,300,128,321,187,336,248,346,310,351,369,346,369,340,311,331,249,316,189,295,130,272,94"/>
+</map>

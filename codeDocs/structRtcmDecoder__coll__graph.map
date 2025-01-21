@@ -1,0 +1,29 @@
+<map id="RtcmDecoder" name="RtcmDecoder">
+<area shape="rect" id="Node000001" href="$structRtcmDecoder.html" title=" " alt="" coords="656,1207,887,1603"/>
+<area shape="rect" id="Node000002" href="$structRtcmTrace.html" title=" " alt="" coords="5,489,188,845"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,858,135,922,152,987,175,1052,203,1113,242,1172,292,1222,349,1264,411,1300,475,1328,539,1351,656,1382,655,1387,537,1357,473,1333,408,1304,346,1269,288,1226,238,1175,198,1116,170,1054,147,989,130,923,116,859"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="274,35,346,111"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="348,98,381,127,410,164,419,190,422,218,428,306,429,417,425,673,425,804,431,926,445,1032,456,1076,470,1114,504,1173,547,1226,595,1275,645,1316,641,1320,592,1278,543,1230,499,1176,465,1116,451,1078,440,1033,426,926,420,804,420,673,424,417,423,307,417,219,414,191,405,167,377,131,344,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,90,219,120,193,141,171,167,151,202,135,238,110,316,96,396,90,472,85,472,91,395,105,315,130,236,146,199,166,164,189,137,216,115,272,86"/>
+<area shape="rect" id="Node000010" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="213,219,407,1115"/>
+<area shape="poly" id="edge9_Node000010_Node000003" title=" " alt="" coords="313,112,313,202,307,202,307,112"/>
+<area shape="rect" id="Node000004" href="$structObsLister.html" title=" " alt="" coords="597,629,693,705"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="653,718,674,894,707,1114,726,1206,721,1207,702,1115,668,895,647,719"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="578,35,711,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="647,112,647,612,642,612,642,112"/>
+<area shape="rect" id="Node000007" href="$structPacketStatistics.html" title=" " alt="" coords="717,519,911,815"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="807,829,785,1207,780,1206,802,828"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="935,629,1098,705"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="1015,705,1005,781,987,884,961,1000,926,1116,894,1193,889,1191,921,1114,956,999,982,883,999,781,1010,704"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="985,35,1049,111"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="1019,125,1019,628,1014,628,1014,125"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="258,1114,272,1149,290,1181,322,1223,360,1259,404,1290,451,1316,499,1338,548,1356,640,1381,639,1386,546,1361,497,1343,448,1321,401,1295,357,1263,318,1227,285,1184,267,1151,253,1116"/>
+<area shape="rect" id="Node000011" href="$structObsList.html" title="List of observations for an epoch." alt="" coords="1123,629,1260,705"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1194,705,1189,783,1177,887,1153,1003,1135,1061,1112,1116,1094,1150,1072,1182,1019,1241,961,1292,902,1334,899,1330,957,1288,1015,1237,1067,1179,1089,1147,1108,1114,1130,1059,1148,1002,1172,886,1184,783,1188,705"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1105,28,1265,119"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1188,133,1194,629,1188,629,1183,133"/>
+<area shape="rect" id="Node000013" href="$structGWeek.html" title=" " alt="" coords="1297,629,1403,705"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1354,705,1352,784,1342,889,1332,946,1318,1005,1299,1062,1274,1116,1241,1166,1201,1210,1155,1249,1106,1282,1054,1311,1002,1336,903,1372,901,1367,1000,1331,1051,1307,1103,1278,1152,1244,1197,1206,1237,1162,1269,1113,1294,1060,1313,1003,1327,945,1337,888,1347,784,1348,705"/>
+<area shape="rect" id="Node000014" href="$structInt.html" title=" " alt="" coords="1289,5,1425,141"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1358,156,1353,629,1348,629,1353,156"/>
+</map>

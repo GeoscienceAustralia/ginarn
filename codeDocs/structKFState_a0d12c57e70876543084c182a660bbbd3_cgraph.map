@@ -1,0 +1,36 @@
+<map id="KFState::filterKalman" name="KFState::filterKalman">
+<area shape="rect" id="Node000001" href="$structKFState.html#a0d12c57e70876543084c182a660bbbd3" title="Kalman filter operation." alt="" coords="5,277,165,303"/>
+<area shape="rect" id="Node000002" href="$algebra_8cpp.html#a4f61fee46942aeff4254e6e547ddf18c" title="Kalman Filter." alt="" coords="267,5,394,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,277,98,231,121,167,138,132,158,98,183,67,212,40,231,28,253,21,255,26,234,33,215,44,187,70,163,101,143,134,126,169,103,233,92,278"/>
+<area shape="rect" id="Node000004" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="269,55,392,80"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="88,276,103,239,128,188,164,134,187,110,212,89,233,78,255,71,257,76,235,83,215,94,190,114,168,137,133,190,108,241,93,278"/>
+<area shape="rect" id="Node000005" href="$algebraTrace_8hpp.html#a763d8db4343fa73fa264de91d8cda786" title="Output filter state to a file for later reading." alt="" coords="273,104,389,129"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="96,276,140,215,173,180,212,150,242,137,273,129,274,135,243,142,215,155,177,184,144,218,100,279"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="88,276,105,244,132,203,168,161,212,126,235,116,258,109,260,114,236,121,215,131,172,165,136,206,109,247,93,278"/>
+<area shape="rect" id="Node000009" href="$structKFState.html#a42f2a19aa3dcbe1344ff4ce05f29bb5b" title="Compare variances of measurements and pre&#45;filtered states to detect unreasonable values Ref: Wang et ..." alt="" coords="231,153,430,179"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="97,275,144,232,177,208,212,188,230,180,232,185,214,192,180,212,148,236,100,279"/>
+<area shape="rect" id="Node000010" href="$structKFState.html#ac043f7b121618d001b17e07e00c6444b" title=" " alt="" coords="213,203,448,228"/>
+<area shape="poly" id="edge6_Node000001_Node000010" title=" " alt="" coords="139,275,213,249,292,229,293,234,214,254,141,280"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="98,275,141,252,199,229,201,234,143,257,100,279"/>
+<area shape="rect" id="Node000011" href="$structKFState.html#ac2465be217cac8f8a9785ef24b936195" title=" " alt="" coords="213,252,448,277"/>
+<area shape="poly" id="edge7_Node000001_Node000011" title=" " alt="" coords="165,288,265,277,266,282,166,293"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="137,275,199,267,200,272,137,280"/>
+<area shape="rect" id="Node000012" href="$structKFState.html#ac54d002b3911b5cdfeaad69cd69e5e9e" title="Kalman filter." alt="" coords="270,301,391,327"/>
+<area shape="poly" id="edge8_Node000001_Node000012" title=" " alt="" coords="166,295,257,304,256,309,165,300"/>
+<area shape="rect" id="Node000013" href="$algebra_8cpp.html#aeb9b81b7f95c771aa529d3fddde7d466" title=" " alt="" coords="267,351,394,376"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="117,300,214,335,254,346,253,351,213,341,116,305"/>
+<area shape="rect" id="Node000015" href="$structKFState.html#aa53e3884a3ca78909514e0845c4cb744" title="Compare variances of measurements and filtered states to detect unreasonable values." alt="" coords="225,400,437,425"/>
+<area shape="poly" id="edge10_Node000001_Node000015" title=" " alt="" coords="101,301,149,343,180,366,214,385,237,393,235,398,212,390,177,370,145,347,98,305"/>
+<area shape="rect" id="Node000016" href="$mongoWrite_8cpp.html#a80b870679e2666999af874ba9580269a" title=" " alt="" coords="248,449,413,475"/>
+<area shape="poly" id="edge13_Node000001_Node000016" title=" " alt="" coords="96,302,140,366,174,403,215,434,236,444,234,449,212,439,171,407,136,370,92,305"/>
+<area shape="rect" id="Node000030" href="$structKFState.html#a2280e82ccd3ebdefc388756580e5fad7" title="Compute Chi&#45;square increment based on pre&#45;fit residuals (innovations)" alt="" coords="239,499,422,524"/>
+<area shape="poly" id="edge14_Node000001_Node000030" title=" " alt="" coords="94,302,108,339,133,388,169,440,191,464,215,484,228,491,225,496,212,488,187,468,165,444,129,391,103,341,89,304"/>
+<area shape="rect" id="Node000031" href="$structKFState.html#a67bbec17e7e74bf5de0d83098281bfc0" title="Compute Chi&#45;square increment based on post&#45;fit residuals." alt="" coords="239,548,422,573"/>
+<area shape="poly" id="edge15_Node000001_Node000031" title=" " alt="" coords="92,303,104,347,127,410,163,477,187,507,215,533,228,542,225,546,212,537,183,511,159,480,122,413,99,349,87,304"/>
+<area shape="rect" id="Node000032" href="$structKFState.html#aa963c92f094f4c0f9d43eea2661723dd" title="Compute Chi&#45;square increment based on the change of fitting solution." alt="" coords="241,597,420,623"/>
+<area shape="poly" id="edge16_Node000001_Node000032" title=" " alt="" coords="91,303,100,355,120,432,137,473,158,513,183,551,215,583,230,592,227,597,212,587,179,554,153,516,132,475,115,433,94,356,85,304"/>
+<area shape="rect" id="Node000033" href="$mongoWrite_8cpp.html#a2b60515d35b3ad7ac783de1d8539495f" title=" " alt="" coords="271,647,390,672"/>
+<area shape="poly" id="edge17_Node000001_Node000033" title=" " alt="" coords="90,302,96,362,114,452,130,501,152,549,180,594,215,632,235,645,259,653,257,658,233,650,212,636,176,597,147,552,125,503,109,453,91,363,85,303"/>
+<area shape="rect" id="Node000034" href="$structKFState.html#a1ad6c6d147c0a3d7cc8a6c4f1eca3de2" title="Clears and initialises the state transition matrix to identity at the beginning of an epoch." alt="" coords="244,696,417,721"/>
+<area shape="poly" id="edge18_Node000001_Node000034" title=" " alt="" coords="89,303,92,370,108,473,124,530,146,585,176,637,215,681,233,693,230,698,212,685,172,640,141,588,119,531,103,474,87,371,84,303"/>
+</map>

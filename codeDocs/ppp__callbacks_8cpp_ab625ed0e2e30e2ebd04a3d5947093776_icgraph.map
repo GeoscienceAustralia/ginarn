@@ -1,0 +1,11 @@
+<map id="satelliteGlitchReaction" name="satelliteGlitchReaction">
+<area shape="rect" id="Node000001" href="$ppp__callbacks_8cpp.html#ab625ed0e2e30e2ebd04a3d5947093776" title="Immediately executed reaction to orbital state errors." alt="" coords="336,56,507,81"/>
+<area shape="rect" id="Node000002" href="$ppp__callbacks_8cpp.html#afe7a5d51db4ed572a47f6754a4deb74c" title="Count all errors on satellite." alt="" coords="108,5,288,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,55,254,33,255,28,352,50"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,60,81"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="322,71,60,71,60,66,322,66"/>
+<area shape="rect" id="Node000004" href="$ppp__callbacks_8cpp.html#a5b0948b00cfd86b5b8ea0adaa6d40daf" title="Call state rejection functions when a measurement is a pseudo observation." alt="" coords="133,107,263,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="352,87,255,109,254,104,350,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,37,61,63,59,58,142,32"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="142,105,59,79,61,74,144,100"/>
+</map>

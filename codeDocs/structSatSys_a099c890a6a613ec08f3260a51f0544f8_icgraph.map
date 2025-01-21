@@ -1,0 +1,7 @@
+<map id="SatSys::sysName" name="SatSys::sysName">
+<area shape="rect" id="Node000001" href="$structSatSys.html#a099c890a6a613ec08f3260a51f0544f8" title=" " alt="" coords="223,31,357,56"/>
+<area shape="rect" id="Node000002" href="$rinex_8cpp.html#a774458b36a7a13e1263568e05106dc83" title="Decode obs header." alt="" coords="38,5,142,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,36,142,27,142,22,209,30"/>
+<area shape="rect" id="Node000006" href="$structACSConfig.html#a20ca3689eafecfa2b7e656c28e340256" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="5,55,175,80"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="209,56,175,60,175,55,209,50"/>
+</map>

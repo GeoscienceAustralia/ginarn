@@ -1,0 +1,18 @@
+<map id="satclk" name="satclk">
+<area shape="rect" id="Node000001" href="$ephemeris_8cpp.html#a7696664ba7fdd776d9ba929b11325e05" title=" " alt="" coords="5,68,67,93"/>
+<area shape="rect" id="Node000002" href="$structGTime.html#a98fdbaaec5a132a7e694f28b4f1907cb" title=" " alt="" coords="291,61,421,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,66,114,53,157,49,200,49,280,56,279,62,200,54,157,54,115,58,68,71"/>
+<area shape="rect" id="Node000003" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="313,5,399,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,78,114,65,213,45,301,31,301,36,214,50,115,70,67,83"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="48,65,78,52,114,41,211,22,299,12,299,17,212,27,115,46,80,57,50,70"/>
+<area shape="rect" id="Node000006" href="$ephBroadcast_8cpp.html#ab1c1a98259589f6e077e68b8c70091b9" title=" " alt="" coords="115,68,243,93"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="67,85,101,87,101,92,67,91"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="67,71,101,69,101,74,67,76"/>
+<area shape="rect" id="Node000009" href="$ephPrecise_8cpp.html#a99b848b35a95f1521e4bfe1f222f8505" title=" " alt="" coords="123,117,234,143"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="68,88,129,110,127,115,66,94"/>
+<area shape="rect" id="Node000013" href="$ephKalman_8cpp.html#a55ae9cdfbdfbae347846acb116ed909e" title=" " alt="" coords="122,167,235,192"/>
+<area shape="poly" id="edge7_Node000001_Node000013" title=" " alt="" coords="45,92,70,125,112,162,108,166,66,129,41,95"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="58,92,84,116,116,141,153,159,150,164,113,146,81,120,55,95"/>
+<area shape="poly" id="edge5_Node000006_Node000002" title=" " alt="" coords="243,76,277,74,277,80,243,81"/>
+<area shape="poly" id="edge4_Node000006_Node000003" title=" " alt="" coords="214,65,305,33,307,38,216,70"/>
+</map>

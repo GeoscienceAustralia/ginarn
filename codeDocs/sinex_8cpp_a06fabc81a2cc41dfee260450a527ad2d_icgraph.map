@@ -1,0 +1,19 @@
+<map id="trim" name="trim">
+<area shape="rect" id="Node000001" href="$sinex_8cpp.html#a06fabc81a2cc41dfee260450a527ad2d" title="Trims leading &amp; trailing whitespace." alt="" coords="231,179,280,204"/>
+<area shape="rect" id="Node000002" href="$sinex_8cpp.html#a5e3a7a1bcb37db6719fb334e5ec345af" title=" " alt="" coords="35,5,153,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,166,224,104,206,72,181,44,152,29,155,24,184,40,210,69,229,102,251,164"/>
+<area shape="rect" id="Node000007" href="$sinex_8cpp.html#aafaf4751ee5f829fd428da86b8371e2a" title=" " alt="" coords="21,55,167,80"/>
+<area shape="poly" id="edge2_Node000001_Node000007" title=" " alt="" coords="240,168,216,129,200,110,181,94,160,82,162,78,184,89,204,106,220,126,245,165"/>
+<area shape="rect" id="Node000008" href="$sinex_8cpp.html#a8e4e72b678ed1f22b011951cdac6d990" title=" " alt="" coords="42,104,146,129"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="227,172,181,143,145,130,147,125,184,138,230,168"/>
+<area shape="rect" id="Node000009" href="$sinex_8cpp.html#a8e00722d6188ad206353d73f2bd4b08b" title=" " alt="" coords="33,153,155,179"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="217,188,155,178,156,173,217,183"/>
+<area shape="rect" id="Node000010" href="$sinex_8cpp.html#aeeafb3496cb618d93d588c6fae3aecf9" title=" " alt="" coords="5,203,183,228"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="218,200,180,205,179,200,217,194"/>
+<area shape="rect" id="Node000011" href="$sinex_8cpp.html#a351e5badfc064f99de81bf140cf4d232" title=" " alt="" coords="15,252,173,277"/>
+<area shape="poly" id="edge6_Node000001_Node000011" title=" " alt="" coords="228,215,184,242,150,254,148,249,182,237,226,210"/>
+<area shape="rect" id="Node000012" href="$sinex_8cpp.html#a4f8a183c0571ba8bbc659e8ca18c478b" title=" " alt="" coords="43,301,145,327"/>
+<area shape="poly" id="edge7_Node000001_Node000012" title=" " alt="" coords="244,218,220,256,203,275,184,291,147,308,144,303,181,286,199,271,215,252,239,215"/>
+<area shape="rect" id="Node000013" href="$sinex_8cpp.html#aa70e3ad2c9fb77819d1f3417a2ac9c9b" title=" " alt="" coords="35,351,153,376"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="251,218,229,279,210,312,184,340,155,356,152,351,181,336,205,309,224,277,246,216"/>
+</map>

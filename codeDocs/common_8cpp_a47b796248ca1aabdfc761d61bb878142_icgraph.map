@@ -1,0 +1,7 @@
+<map id="svaToUra" name="svaToUra">
+<area shape="rect" id="Node000001" href="$common_8cpp.html#a47b796248ca1aabdfc761d61bb878142" title="URA index to URA value (m) GLOBAL POSITIONING SYSTEM STANDARD POSITIONING SERVICE SIGNAL SPECIFICATIO..." alt="" coords="288,31,371,56"/>
+<area shape="rect" id="Node000002" href="$structRtcmDecoder.html#a424082e15bbf15120f1fc5f0635b01b9" title="decode RTCM navigation messages" alt="" coords="5,5,240,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,39,226,33,227,28,274,34"/>
+<area shape="rect" id="Node000005" href="$rinexNavWrite_8cpp.html#af49aa619a891c6d00f32ac721ab01cd0" title=" " alt="" coords="47,55,198,80"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="274,52,198,61,198,56,274,47"/>
+</map>

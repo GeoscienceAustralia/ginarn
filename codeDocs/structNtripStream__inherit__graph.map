@@ -1,0 +1,7 @@
+<map id="NtripStream" name="NtripStream">
+<area shape="rect" id="Node000001" href="$structNtripStream.html" title=" " alt="" coords="35,1053,199,1169"/>
+<area shape="rect" id="Node000002" href="$structNtripResponder.html" title=" " alt="" coords="5,889,228,1005"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,1019,119,1053,114,1053,114,1019"/>
+<area shape="rect" id="Node000003" href="$structTcpSocket.html" title=" " alt="" coords="5,5,228,841"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,855,119,889,114,889,114,855"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="satPosSSR" name="satPosSSR">
+<area shape="rect" id="Node000001" href="$ephSSR_8cpp.html#ab46bbc0b3a67c74f5ab3520bea51162d" title="satellite position and clock with ssr correction" alt="" coords="5,192,96,217"/>
+<area shape="rect" id="Node000002" href="$ephSSR_8cpp.html#aca05186d4697c30f82bc92eb91caa178" title=" " alt="" coords="160,5,259,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,191,83,120,108,77,142,40,148,36,151,40,146,44,113,81,87,123,58,193"/>
+<area shape="rect" id="Node000003" href="$structGTime.html#a98fdbaaec5a132a7e694f28b4f1907cb" title=" " alt="" coords="323,179,453,204"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="96,207,309,200,309,205,96,212"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="96,194,309,184,309,189,96,199"/>
+<area shape="rect" id="Node000004" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="345,117,431,143"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="95,194,143,178,242,157,331,142,332,147,243,162,145,183,97,199"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="62,189,98,170,143,154,242,133,331,123,331,129,243,139,145,159,100,175,64,194"/>
+<area shape="rect" id="Node000007" href="$ephSSR_8cpp.html#aa7c23253963fe9c81c4019561e594559" title=" " alt="" coords="161,55,258,80"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="59,190,92,146,116,121,142,97,163,84,166,88,146,101,120,124,96,150,63,194"/>
+<area shape="rect" id="Node000008" href="$ephBroadcast_8cpp.html#a7a12481a61ef763e3db3bac720587930" title=" " alt="" coords="144,255,275,280"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="85,215,164,247,162,252,83,220"/>
+<area shape="rect" id="Node000012" href="$ephBroadcast_8cpp.html#ab1c1a98259589f6e077e68b8c70091b9" title=" " alt="" coords="145,304,273,329"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="65,216,99,251,145,289,158,296,155,301,143,294,95,255,61,219"/>
+<area shape="rect" id="Node000014" href="$ephSSR_8cpp.html#a8bdff335e8cf4b98bed4b31c8c943b55" title=" " alt="" coords="170,353,249,379"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="60,216,91,274,116,309,146,339,159,347,156,352,142,343,112,312,86,277,55,219"/>
+<area shape="rect" id="Node000016" href="$ephSSR_8cpp.html#a16f6ba062b344678a58d194d9c4a8410" title="variance by ura ssr (ref [4])" alt="" coords="164,403,255,428"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="57,217,67,251,84,297,110,346,146,389,153,395,150,399,142,393,106,349,79,299,62,253,52,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,28,254,38,276,52,289,66,296,81,303,108,308,136,325,164,328,168,324,172,321,168,303,138,297,109,291,82,284,69,273,56,252,42,229,33"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="260,17,276,28,289,42,296,57,303,84,308,112,325,140,344,156,365,169,362,174,340,161,321,144,303,114,297,85,291,58,284,45,273,32,257,21"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="252,28,276,40,325,72,365,106,361,110,321,77,273,44,249,33"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="220,78,264,119,324,164,333,169,330,174,321,168,260,123,217,82"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="239,78,324,140,368,168,365,173,321,144,236,82"/>
+<area shape="poly" id="edge6_Node000007_Node000004" title=" " alt="" coords="231,78,333,116,331,121,229,83"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="259,74,356,109,354,114,257,79"/>
+<area shape="poly" id="edge16_Node000008_Node000003" title=" " alt="" coords="239,252,343,207,346,212,241,257"/>
+<area shape="poly" id="edge15_Node000008_Node000004" title=" " alt="" coords="221,253,264,211,321,164,348,147,351,152,324,168,267,215,225,256"/>
+<area shape="poly" id="edge19_Node000012_Node000003" title=" " alt="" coords="248,302,273,289,324,251,364,213,367,216,327,255,276,294,250,306"/>
+<area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="255,302,273,289,285,274,292,259,297,229,302,198,309,181,321,164,341,147,344,151,325,168,313,184,307,199,302,230,297,261,289,277,276,293,258,306"/>
+</map>

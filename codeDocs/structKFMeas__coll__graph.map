@@ -1,0 +1,25 @@
+<map id="KFMeas" name="KFMeas">
+<area shape="rect" id="Node000001" href="$structKFMeas.html" title="Object to hold measurements, design matrices, and residuals for multiple observations." alt="" coords="464,1191,619,1347"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,159,200,1055"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,1053,215,1113,259,1165,302,1197,350,1222,400,1240,448,1252,447,1257,399,1245,348,1227,299,1202,256,1169,210,1116,175,1056"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="67,5,139,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,81,105,142,100,142,100,81"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="224,569,317,645"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,645,259,744,258,810,262,881,271,955,289,1030,317,1101,355,1165,375,1187,398,1206,450,1235,447,1239,395,1210,372,1191,351,1168,312,1103,284,1031,266,956,256,882,253,810,254,744,262,645"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="342,569,437,645"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="392,645,396,739,409,871,421,945,437,1020,458,1094,485,1166,489,1175,484,1177,480,1168,453,1096,432,1021,416,945,404,872,391,740,387,645"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="461,569,621,645"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="544,645,544,1174,539,1174,539,645"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="509,5,573,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="544,95,544,568,539,568,539,95"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="646,569,794,645"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="728,645,736,741,735,875,728,949,715,1025,694,1098,664,1168,650,1189,633,1208,629,1205,646,1186,659,1165,689,1097,710,1023,723,948,730,875,730,741,723,645"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="869,5,945,81"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="859,76,827,107,815,131,809,159,781,276,758,391,728,569,723,568,752,390,776,275,804,158,810,130,823,104,855,72"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="819,561,995,652"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="909,95,909,561,904,561,904,95"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1019,561,1248,652"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="959,51,1008,70,1032,84,1051,104,1087,159,1113,220,1130,284,1141,349,1146,411,1147,469,1142,561,1136,561,1141,469,1141,412,1136,349,1125,285,1108,222,1082,162,1047,107,1028,89,1006,74,957,56"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="912,652,910,755,905,821,894,892,877,966,853,1038,819,1107,774,1168,744,1196,709,1219,672,1236,635,1249,634,1244,670,1231,706,1214,740,1192,770,1165,814,1104,848,1036,872,964,889,891,900,820,905,755,906,652"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1136,652,1130,761,1120,829,1104,903,1080,977,1047,1049,1004,1114,978,1143,948,1169,912,1193,873,1213,791,1242,709,1260,635,1268,635,1263,708,1254,789,1237,871,1208,910,1189,945,1165,974,1139,1000,1111,1043,1046,1075,975,1099,901,1115,828,1124,760,1131,652"/>
+</map>
